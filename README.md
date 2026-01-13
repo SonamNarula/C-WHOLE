@@ -114,11 +114,31 @@ Why use a chain of ifs when you can use a jump table? Optimizing selection logic
 </details>
 
 <details>
-<summary><b>03. Fifteen (Loops)</b></summary>
+<summary><b>03. Fifteen (Iterative Loops)</b></summary>
 <br>
 Doing things over and over again. <code>for</code>, <code>while</code>, <code>do-while</code>. Understanding iteration protocols.
 <br>
 <i>"Count to ten, take it in."</i>
+</details>
+
+<details>
+<summary><b>04. The Way I Loved You (Patterns & Nesting)</b></summary>
+<br>
+Nested loops to create structure out of chaos. 
+<ul>
+<li><b>RightTriangle.cpp</b>: Building pyramid schemes (literally).</li>
+<li><b>Palindrome.cpp</b>: "Is it the same forwards and backwards?"</li>
+</ul>
+<br>
+<i>"I miss screaming and fighting and kissing in the rain (and <code>j++</code>)."</i>
+</details>
+
+<details>
+<summary><b>05. Forever & Always (Number Theory)</b></summary>
+<br>
+<b>Factorial.cpp</b>: The number grows until it overflows. 
+<br>
+<i>"And I stare at the phone, he still hasn't called (Stack Overflow)."</i>
 </details>
 
 ---
