@@ -1,0 +1,277 @@
+/* Global Styles */
+:root {
+    --primary-color: #FFD1DC; /* Pastel Pink */
+    --secondary-color: #FFFDD0; /* Cream */
+    --accent-color: #D4AF37; /* Gold */
+    --text-color: #4A4A4A;
+    --font-heading: 'Pacifico', cursive;
+    --font-body: 'Quicksand', sans-serif;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: var(--font-body);
+    background-color: var(--secondary-color);
+    color: var(--text-color);
+    overflow-x: hidden;
+}
+
+h1, h2, h3 {
+    font-family: var(--font-heading);
+    color: #E75480; /* Darker Pink */
+}
+
+/* Hero Section */
+#hero {
+    height: 100vh;
+    background: linear-gradient(rgba(255,255,255,0.7), rgba(255,255,255,0.7)), url('assets/hero_bg.png');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+}
+
+.hero-content {
+    z-index: 2;
+    background: rgba(255, 255, 255, 0.8);
+    padding: 3rem;
+    border-radius: 20px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+    backdrop-filter: blur(5px);
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-size: 4rem;
+    margin: 0;
+    text-shadow: 2px 2px 0px #fff;
+}
+
+.subtitle {
+    font-size: 1.5rem;
+    margin: 10px 0 20px;
+}
+
+.heart {
+    color: red;
+    display: inline-block;
+    animation: heartbeat 1.5s infinite;
+}
+
+/* Countdown */
+.countdown {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin: 20px 0;
+}
+
+.time-box {
+    background: var(--primary-color);
+    padding: 10px 20px;
+    border-radius: 10px;
+    min-width: 60px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+.time-box span {
+    font-size: 1.5rem;
+    font-weight: bold;
+    display: block;
+}
+
+.time-box p {
+    margin: 0;
+    font-size: 0.9rem;
+}
+
+/* Animations included in keyframes below */
+
+.couple-img {
+    width: 200px; /* Adjust based on image */
+    margin-top: 20px;
+    z-index: 2;
+}
+
+.cta-button {
+    background-color: #E75480;
+    color: white;
+    border: none;
+    padding: 12px 30px;
+    font-size: 1.2rem;
+    border-radius: 50px;
+    cursor: pointer;
+    font-family: var(--font-body);
+    font-weight: bold;
+    transition: transform 0.3s, box-shadow 0.3s;
+    margin-top: 20px;
+}
+
+.cta-button:hover {
+    transform: scale(1.05);
+    box-shadow: 0 5px 15px rgba(231, 84, 128, 0.4);
+}
+
+/* Story Section */
+#story {
+    padding: 50px 20px;
+    background-color: white;
+    text-align: center;
+}
+
+.timeline {
+    position: relative;
+    max-width: 800px;
+    margin: 40px auto;
+}
+
+.timeline::after {
+    content: '';
+    position: absolute;
+    width: 6px;
+    background-color: var(--primary-color);
+    top: 0;
+    bottom: 0;
+    left: 50%;
+    margin-left: -3px;
+    border-radius: 3px;
+}
+
+.timeline-item {
+    padding: 10px 40px;
+    position: relative;
+    background-color: inherit;
+    width: 50%;
+    box-sizing: border-box;
+}
+
+.timeline-item.left {
+    left: 0;
+    text-align: right;
+}
+
+.timeline-item.right {
+    left: 50%;
+    text-align: left;
+}
+
+.content {
+    background: #FFFAF0; /* Floral White */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+    border: 2px solid var(--primary-color);
+    position: relative;
+    z-index: 1; /* Above line */
+}
+
+/* Fun Section */
+#fun {
+    padding: 50px 20px;
+    text-align: center;
+    background-color: var(--secondary-color);
+}
+
+.secondary-button {
+    background-color: var(--accent-color);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 20px;
+    cursor: pointer;
+    font-family: var(--font-body);
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.guestbook textarea {
+    width: 80%;
+    max-width: 500px;
+    padding: 10px;
+    border: 2px solid var(--primary-color);
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+#messages-list {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+}
+
+.msg-card {
+    background: white;
+    padding: 10px 20px;
+    border-radius: 15px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+    animation: popIn 0.5s ease;
+}
+
+/* Footer */
+footer {
+    background: var(--primary-color);
+    padding: 20px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+
+/* Canvas */
+#confetti-canvas {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    z-index: 100;
+}
+
+/* Keyframes */
+@keyframes heartbeat {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.2); }
+    100% { transform: scale(1); }
+}
+
+@keyframes float {
+    0% { transform: translateY(0px); }
+    50% { transform: translateY(-15px); }
+    100% { transform: translateY(0px); }
+}
+
+.floating {
+    animation: float 3s ease-in-out infinite;
+}
+
+.bounce {
+    animation: bounce 2s infinite;
+}
+
+@keyframes bounce {
+    0%, 20%, 50%, 80%, 100% {transform: translateY(0);}
+    40% {transform: translateY(-20px);}
+    60% {transform: translateY(-10px);}
+}
+
+@keyframes popIn {
+    from { opacity: 0; transform: scale(0.5); }
+    to { opacity: 1; transform: scale(1); }
+}
+
+/* Responsive */
+@media screen and (max-width: 600px) {
+    .timeline::after { left: 31px; }
+    .timeline-item { width: 100%; padding-left: 70px; padding-right: 25px; }
+    .timeline-item.left, .timeline-item.right { text-align: left; left: 0; }
+    h1 { font-size: 2.5rem; }
+}

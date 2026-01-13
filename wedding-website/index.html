@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pratiksha weds Yashwant</title>
+    <link href="https://fonts.googleapis.com/css2?family=Pacifico&family=Quicksand:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- Hero Section -->
+    <section id="hero">
+        <div class="hero-content">
+            <h1 class="bounce">Pratiksha <span class="heart">❤️</span> Yashwant</h1>
+            <p class="subtitle">Are getting married!</p>
+            <div class="countdown">
+                <div class="time-box">
+                    <span id="days">00</span>
+                    <p>Days</p>
+                </div>
+                <div class="time-box">
+                    <span id="hours">00</span>
+                    <p>Hours</p>
+                </div>
+                <div class="time-box">
+                    <span id="minutes">00</span>
+                    <p>Mins</p>
+                </div>
+                <div class="time-box">
+                    <span id="seconds">00</span>
+                    <p>Secs</p>
+                </div>
+            </div>
+            <button id="save-date-btn" class="cta-button">Save the Date! 📅</button>
+        </div>
+        <img src="assets/couple_cartoon.png" alt="Happy Couple" class="couple-img floating">
+    </section>
+
+    <!-- Story Section -->
+    <section id="story">
+        <h2>Our Love Story</h2>
+        <div class="timeline">
+            <div class="timeline-item left">
+                <div class="content">
+                    <h3>First Meeting ☕</h3>
+                    <p>It all started with a cup of coffee and endless conversations.</p>
+                </div>
+            </div>
+            <div class="timeline-item right">
+                <div class="content">
+                    <h3>The Yes! 💍</h3>
+                    <p>He asked, she said yes, and the rest is history!</p>
+                </div>
+            </div>
+            <div class="timeline-item left">
+                <div class="content">
+                    <h3>The Big Day 💒</h3>
+                    <p>We can't wait to celebrate with you!</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Fun Section -->
+    <section id="fun">
+        <h2>Fun Zone 🎉</h2>
+        <div class="love-meter-container">
+            <h3>Test Your Luck</h3>
+            <button id="love-meter-btn" class="secondary-button">Check Wedding Vibe!</button>
+            <p id="meter-result"></p>
+        </div>
+        
+        <div class="guestbook">
+            <h3>Leave a Message</h3>
+            <textarea id="guest-msg" placeholder="Write something sweet..."></textarea>
+            <button id="submit-msg" class="secondary-button">Send Love 💌</button>
+            <div id="messages-list"></div>
+        </div>
+    </section>
+
+    <footer>
+        <p>Made with ❤️ for Pratiksha Di & Yashwant Bhaiya</p>
+    </footer>
+
+    <canvas id="confetti-canvas"></canvas>
+    <script src="script.js"></script>
+</body>
+</html>
