@@ -1,16 +1,16 @@
 <div align="center">
 
 # 🚀 C-WHOLE  
-### C & C++ Complete Learning Journey
+### C & C++ Complete Learning Journey & Projects
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=600&lines=Learning+C+and+C%2B%2B+from+Scratch;Building+Strong+Foundations;Consistency+over+Perfection;One+Commit+at+a+Time" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=600&lines=Learning+C+and+C%2B%2B+from+Scratch;Building+Strong+Foundations;Web+Development+Projects;One+Commit+at+a+Time" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C-blue?style=for-the-badge&logo=c" />
   <img src="https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=cplusplus" />
+  <img src="https://img.shields.io/badge/Web-HTML%2FCSS%2FJS-orange?style=for-the-badge&logo=html5" />
   <img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
 </p>
 
 </div>
@@ -18,60 +18,57 @@
 ---
 
 ## 📌 About This Repository
-**C-WHOLE** is my personal learning repository that documents my **complete journey of learning C and C++**, starting from the absolute basics and gradually moving towards core programming concepts.
+**C-WHOLE** is a comprehensive repository documenting my programming journey. It includes:
+1.  **C & C++ Learning Path**: From absolute basics to core concepts, organized in structured folders (`BASICS`, `CONDITIONALS`, etc.).
+2.  **Web Development**: Creative web projects built along the way.
 
 This repository focuses on:
-- 🧠 Strong fundamentals  
-- 💡 Logic building  
-- 🔁 Daily practice  
-- 📈 Clean & meaningful GitHub commits  
+- 🧠 Strong computer science fundamentals  
+- 💡 Logic building & problem solving  
+- 🎨 Creative web design  
+- 📈 Clean & meaningful code  
 
 ---
 
-## 🛠️ Topics Covered
-- 🔹 Basic Input / Output  
-- 🔹 Variables & Data Types  
-- 🔹 Operators  
-- 🔹 Conditional Statements  
-- 🔹 Loops  
-- 🔹 Functions  
-- 🔹 Arrays  
-- 🔹 Strings  
-- 🔜 Pointers  
-- 🔜 Structures  
-- 🔜 Object-Oriented Programming (C++)  
+## 📂 Repository Structure
 
+### 1️⃣ C++ Fundamentals
+Found core concepts and practice programs in:
+- **`BASICS/`**: Intro to C++, Input/Output, Variables, Data Types, Operators.
+- **`CONDITIONALS/`**: Decision making statements (`if-else`, etc.) and logic problems.
 
+### 2️⃣ Web Projects
+- **`wedding-website/`**: A cute, interactive wedding website designed with HTML, CSS, and JavaScript. Features custom animations and a fun user experience.
 
 ---
 
-## 📈 Progress Tracker
+## 📈 C++ Progress Tracker
 
-| Topic                  | Status |
-|------------------------|--------|
-| Basic Input / Output   | ✅ Done |
-| Variables & Data Types | ✅ Done |
-| Operators              | ✅ Done |
-| Conditionals           | ✅ Done |
-| Loops                  | ⏳ In Progress |
-| Functions              | ⏳ In Progress |
-| Arrays                 | 🔜 Planned |
-| Strings                | 🔜 Planned |
-| Pointers               | 🔜 Planned |
-| Structures             | 🔜 Planned |
-| OOP in C++             | 🔜 Planned |
+| Topic                  | Folder          | Status |
+|------------------------|-----------------|--------|
+| Basic Input / Output   | `BASICS`        | ✅ Done |
+| Variables & Data Types | `BASICS`        | ✅ Done |
+| Operators              | `BASICS`        | ✅ Done |
+| Conditionals           | `CONDITIONALS`  | ✅ Done |
+| Loops                  | -               | ⏳ In Progress |
+| Functions              | -               | ⏳ In Progress |
+| Arrays                 | -               | 🔜 Planned |
+| Strings                | -               | 🔜 Planned |
+| Pointers               | -               | 🔜 Planned |
+| Structures             | -               | 🔜 Planned |
+| OOP in C++             | -               | 🔜 Planned |
 
 ---
 
 ## 🧑‍💻 Tech Stack
-- **Languages:** C, C++
+- **Languages:** C, C++, HTML, CSS, JavaScript
 - **Code Editor:** VS Code
 - **Version Control:** Git & GitHub
 
 ---
 
 ## 🎯 Goal
-To build a **strong foundation in C & C++**, improve problem-solving skills, and maintain a disciplined learning routine with meaningful commits.
+To build a **strong foundation in C & C++**, explore **web development**, and maintain a disciplined learning routine with meaningful commits.
 
 ---
 
@@ -82,6 +79,12 @@ To build a **strong foundation in C & C++**, improve problem-solving skills, and
 - 🧾 Clean & readable code  
 - 🔄 Regular revision  
 - 🚀 Daily progress  
+
+---
+
+## howto Run
+1.  **C++ Files**: Compile using `g++ filename.cpp -o filename` and run `./filename`.
+2.  **Web Projects**: Open `index.html` in any modern web browser.
 
 ---
 
@@ -96,6 +99,3 @@ To build a **strong foundation in C & C++**, improve problem-solving skills, and
 ⭐ If you find this repository useful, consider starring it ⭐  
 
 </div>
-
-
-
