@@ -1,117 +1,114 @@
 <div align="center">
 
-# ⚡  C - W H O L E  ⚡
-###  SYSTEM ONLINE // INITIALIZING LEARNING PROTOCOLS...
+# C-WHOLE
+### The Evolution of a Developer
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=INITIATING+C%2B%2B+SEQUENCE...;LOADING+MODULES:+LOGIC+%7C+SYNTAX+%7C+WEB;TARGET:+MASTER+CODING+ARTS;STATUS:+OPTIMIZED" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=std::cout+%3C%3C+%22Commit.+Learn.+Repeat.%22%3B;Building+a+Foundation+in+Computer+Science;One+Line+of+Code+at+a+Time..." />
 
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&color=ff00ff" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&color=00ffff" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=ff00ff" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=00ffff" />
-  <img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&color=ff00ff" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/Algorithms-Theory-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Web_Engineering-HTML%2FCSS%2FJS-blueviolet?style=flat-square" />
 </p>
 
-<br>
-
-![System Badge](https://img.shields.io/badge/SYSTEM-OPERATIONAL-green?style=for-the-badge&labelColor=black)
-![Uptime](https://img.shields.io/badge/UPTIME-FOREVER-red?style=for-the-badge&labelColor=black)
-
 </div>
 
 ---
 
-## 🔮 THE M.I.S.S.I.O.N (Core Objective)
+## // Abstract
 
-> *"In a world of zero and ones, be the one."*
+Welcome to **C-WHOLE**. This repository represents more than just code; it is a living documentation of my journey into Computer Science. 
 
-Welcome to **C-WHOLE** matrix. This repository contains the source code for my evolution as a developer. It tracks the compilation of knowledge from raw inputs (Basics) to complex algorithms (Structures & OOP).
+Here, I am building a robust understanding of programming fundamentals, starting from the memory-managed world of **C and C++** and extending into creative **Web Development**. My goal is not just to write code that works, but to understand *why* it works.
 
-**CURRENT DIRECTIVE:**
-*   **[LOAD]** Fundamental Knowledge
-*   **[EXECUTE]** Practice Programs
-*   **[COMPILE]** Web Projects
-*   **[DEPLOY]** Skills to the Real World
+> *"The art of programming is the skill of controlling complexity."*
 
 ---
 
-## � S.T.A.T.S (System Diagnostics)
+## // Project Architecture
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SonamNarula&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF00FF&text_color=c9d1d9" alt="Sonam's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonamNarula&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF&text_color=c9d1d9" alt="Top Languages" />
-</div>
+This repository is structured as a progressive curriculum, organized by concept complexity.
+
+```text
+C-WHOLE/
+│
+├── BASICS/                # [Module 01] Syntax, I/O, and Memory Model
+├── CONDITIONALS/          # [Module 02] Control Flow and Logic
+├── wedding-website/       # [Project]   Applied Web Development
+└── README.md              # [Doc]       System Documentation
+```
 
 ---
 
-## 📂 NEURAL NETWORK (Directory Structure)
+## // Learning Modules
 
-Accessing file system... Access granted. 🔓
-
-| SECTOR | DATA TYPE | FUNCTION | SYSTEM IMPACT |
+| Module ID | Topic | Status | Focus Area |
 | :--- | :--- | :--- | :--- |
-| **`BASICS/`** | `Core` | Input/Output, Syntax Training | `CRITICAL` |
-| **`CONDITIONALS/`** | `Logic` | Decision Making Protocols | `HIGH` |
-| **`wedding-website/`** | `Web` | Interactive User Interface | `CREATIVE` |
+| `0x01` | **Input / Output** | `Compiled` ✅ | Streams, Namespaces |
+| `0x02` | **Data Types** | `Compiled` ✅ | Memory, Variables |
+| `0x03` | **Operators** | `Compiled` ✅ | Arithmetic, Bitwise |
+| `0x04` | **Control Flow** | `Compiled` ✅ | If/Else, Switch |
+| `0x05` | **Loops** | `In Progress` 🔄 | Iteration, Complexity |
+| `0x06` | **Functions** | `In Progress` 🔄 | Stack Frame, Scope |
+| `0x07` | **Pointers** | `Pending` ⏳ | Memory Addresses |
+| `0x08` | **OOP** | `Pending` ⏳ | Classes, Inheritance |
 
 ---
 
-## 🛠️ CYBERDECK (Tech Stack)
+## // Applied Engineering: Web
 
-**// HARDWARE & SOFTWARE DETECTED:**
+While my core focus is systems programming, I believe in the power of visual creativity.
 
-*   **LANGUAGES**: `C`, `C++`, `JavaScript`, `HTML`, `CSS`
-*   **ENVIRONMENT**: `VS Code` [Neon Enabled]
-*   **VERSIONING**: `Git` [Time Travel Module]
-*   **OS**: `MacOS` [Unix Base]
-
----
-
-## 👾 PROGRESS MATRIX
-
-**[SCANNING SKILL TREES...]**
-
-*   `[██████████]` 100% **Basics** [COMPLETE]
-*   `[██████████]` 100% **Logic** [COMPLETE]
-*   `[████░░░░░░]` 40%  **Loops** [PROCESSING]
-*   `[██░░░░░░░░]` 20%  **Functions** [LOADING]
-*   `[░░░░░░░░░░]` 0%   **Pointers** [LOCKED]
-*   `[░░░░░░░░░░]` 0%   **OOP** [LOCKED]
+### 💍 The Wedding Website
+A fully responsive, interactive website built from scratch.
+-   **Stack**: HTML5, CSS3, Vanilla JavaScript.
+-   **Features**: Custom DOM manipulation, responsive grid layout, and aesthetic CSS animations.
+-   **Location**: `wedding-website/`
 
 ---
 
-## 🕹️ EXECUTION PROTOCOLS (Run Instructions)
+## // Stack Trace
 
-To initialize these programs on your local machine:
+Tools and technologies currently utilized in this environment:
+
+-   **Languages**: `C++17`, `C11`, `JavaScript (ES6+)`
+-   **Editor**: VS Code (Customized for productivity)
+-   **Version Control**: Git & GitHub
+-   **OS**: MacOS
+
+---
+
+## // Runtime Instructions
+
+To replicate this environment or run specific modules locally:
 
 ```bash
->> git clone https://github.com/SonamNarula/C-WHOLE.git
->> cd C-WHOLE
+# 1. Clone the repository
+git clone https://github.com/SonamNarula/C-WHOLE.git
 
-# [To Compile C++ Modules]
->> g++ filename.cpp -o program.exe
->> ./program.exe
+# 2. Navigate to directory
+cd C-WHOLE
 
-# [To Launch Web Interface]
->> open wedding-website/index.html
+# 3. Compile a C++ module (Example)
+g++ BASICS/HelloWorld.cpp -o hello
+./hello
+
+# 4. Launch Web Project
+open wedding-website/index.html
 ```
 
 ---
 
 <div align="center">
-
-### [END OF TRANSMISSION]
-<br>
-<img src="https://img.shields.io/badge/Connect-Link-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black" />
-<img src="https://img.shields.io/badge/Follow-Link-FF00FF?style=for-the-badge&logo=github&logoColor=white" />
-
-<br><br>
-
-⭐ **STAR THIS REPO TO BOOST SYSTEM PERFORMANCE** ⭐
-
+  <br>
+  <img src="https://img.shields.io/badge/Maintained%20by-Sonam%20Narula-lightgrey?style=flat-square" />
+  <br><br>
+  <a href="https://linkedin.com/in/sonamnarula">
+    <img src="https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
+  </a>
 </div>
