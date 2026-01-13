@@ -1,121 +1,106 @@
 <div align="center">
 
-# C-WHOLE
-### Foundations of Computer Science & Systems Programming
+# C-WHOLE (Taylor's Version)
+### The Eras Tour: A Systems Engineering Journey
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Mastering+Data+Structures+%26+Algorithms;Optimizing+for+Time+and+Space+Complexity;Building+Scalable+Systems+from+Scratch" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=24&duration=4000&pause=1000&color=E6E6FA&center=true&vCenter=true&width=700&lines=Nice+to+meet+you,+where+you+been%3F;I+could+show+you+incredible+things...;Magic,+Madness,+Heaven,+Sin,+and+C%2B%2B" />
 
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Language-C++17-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Standard-C11-A8B9CC?style=flat-square&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/Focus-Systems_Engineering-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Web-Modern_Stack-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/Era-Midnights-191970?style=for-the-badge&logo=cplusplus&logoColor=FFD700" />
+  <img src="https://img.shields.io/badge/Vibe-Mastermind-800000?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Version-Taylor's_Version-E6E6FA?style=for-the-badge&labelColor=000000&color=E6E6FA" />
+  <img src="https://img.shields.io/badge/Status-Bejeweled-FFD700?style=for-the-badge&logo=sparkles&logoColor=black" />
 </p>
 
 </div>
 
 ---
 
-## 🚀 Professional Summary
+## 🎆 The Prologue
 
-Welcome to **C-WHOLE**. This repository serves as a technical portfolio documenting my rigourous journey into **Systems Programming** and **Computer Science Fundamentals**.
+> *"It's a love story, baby, just say compile."*
 
-Unlike typical tutorials, this codebase focuses on **under-the-hood implementation details**. I am not just learning syntax; I am mastering memory management, pointer arithmetic, and algorithmic efficiency.
+Welcome to **C-WHOLE**. This isn't just a repository; it's a chronicle of my journey through the **labyrinth of Computer Science**.  
+Like a songwriter crafting a masterpiece, I am piecing together the syntax, logic, and architecture of low-level systems. I don't just write code; I write **stories** in memory addresses and pointers.
 
-**Core Competencies:**
-*   **Memory Management**: Manual allocation/deallocation, understanding stack vs. heap.
-*   **Algorithm Optimization**: Writing clean, `O(n)` or `O(log n)` solutions where possible.
-*   **Clean Code Practices**: Adhering to strict naming conventions and modular design principles.
-
----
-
-## 📚 Curriculum & Technical Depth
-
-The repository is architected to demonstrate progressive mastery of low-level concepts.
-
-| Module | Core Concepts & Technical Focus | Implementation Status |
-| :--- | :--- | :--- |
-| **01. Fundamentals** | Stream buffers, Namespaces usage, Preprocessor directives. | `Completed` ✅ |
-| **02. Data Structures** | Primitive types, memory footprint analysis, signed vs unsigned. | `Completed` ✅ |
-| **03. Logic & Flow** | Branch prediction friendly code, Switch-case optimization. | `Completed` ✅ |
-| **04. Algorithms** | Iterative solutions, Loop invariants, Complexity analysis. | `In Progress` 🔄 |
-| **05. Systems** | Function stack frames, Pass-by-value vs Pass-by-reference. | `In Progress` 🔄 |
+**My Reputation:**
+*   **Systems Thinker**: Decoding the invisible strings of memory capability.
+*   **Problem Solver**: "Checkmate, I couldn't lose." (Optimized Logic).
+*   **Creative Engineer**: Building castles out of all the bricks they threw at me (Web Projects).
 
 ---
 
-## 🏆 Competitive Programming & Problem Solving
+## � The Eras (Curriculum)
 
-I maintain a disciplined daily coding habit, balancing standard DSA revision with competitive programming.
+Every phase of my learning is an Era. 
 
-| Platform | Profile | Key Stats |
+| Era | Focus | Tracklist (Topics) | Status |
+| :--- | :--- | :--- | :--- |
+| **Foundation Era** | `C++` Basics | *Syntax, I/O, The 1's and 0's* | `Versed` 🧣 |
+| **Logic Era** | Algorithms | *Control Flow, Branching, Decision Trees* | `Fearless` 💛 |
+| **Systems Era** | Memory | *Pointers, Stack vs Heap, References* | `In Progress` �️ |
+| **Web Era** | Creativity | *HTML, CSS, DOM Magic* | `Bejeweled` � |
+
+---
+
+## ♟️ Mastermind (Problem Solving)
+
+*"If you fail to plan, you plan to fail."*  
+I maintain a rigorous, daily practice of competitive programming.
+
+<div align="center">
+
+| Platform | Profile | Key Statistics |
 | :--- | :--- | :--- |
 | **LeetCode** | [sonamnarula2005](https://leetcode.com/u/sonamnarula2005/) | **Rating:** 1,483 • **Solved:** 484+ • **Badge:** 365 Days Consistency |
 | **Codolio** | [Sonam Narula](https://codolio.com/profile/0PG2lf5S) | **Global Rank:** #1257 • **Best Streak:** 290 Days 🔥 |
 
-**Current Routine:**
-*   **Weekdays:** Core DSA Revision & Government Exam Preparation.
-*   **Weekends:** Virtual Contests & Upsolving.
+</div>
+
+> **Routine:**
+> *   Weekdays: *"Long story short, I survived"* (DSA Revision & Exams)
+> *   Weekends: *"I can see you staring, honey"* (Virtual Contests)
 
 ---
 
-## 💻 Code Spotlight: Logic Implementation
+## 🌌 Wildest Dreams (Engineering Showcase)
 
-Efficiency is key. Below is an example of applying mathematical logic to solve problems without unnecessary loops (Example from `CONDITIONALS/` module).
+*"I can show you incredible things."* 
 
-```cpp
-/**
- * Problem: Determine if a year is a Leap Year.
- * Optimization: Single boolean logic statement instead of nested ifs.
- * Complexity: O(1) Time | O(1) Space
- */
-bool isLeapYear(int year) {
-    return (year % 4 == 0 && year % 100 != 0) || (year % 400 == 0);
-}
-```
+### 💍 The Wedding Website
+A project born from **Lavender Haze** dreams. 
+*   **Concept**: An interactive digital experience for a special day.
+*   **Tech**: No frameworks, just pure, raw CSS magic (Animation-heavy). 
+*   **Code**: [View Source](wedding-website/)
 
 ---
 
-## 🌐 Engineering Showcase: Responsive Web App
+## � Big Reputation (The Stack)
 
-Beyond systems code, I build modern, user-centric web applications.
+My toolkit for world domination (or at least, code execution).
 
-### [Project] Interactive Wedding Experience
-A highly optimized, responsive web application designed for a seamless user experience.
-
-*   **Engineering Challenges**:
-    *   Implementing smooth, uniform CSS animations (60fps target).
-    *   Responsive Grid Layouts for mobile-first compatibility.
-    *   DOM manipulation without heavy framework overhead.
-
-> *The code for this project resides in the `wedding-website/` directory.*
+*   **Languages**: `C++` (The Favorite), `C`, `Python`, `JavaScript`
+*   **Tools**: `VS Code` (Getaway Car), `Git` (The Story of Us)
+*   **OS**: `MacOS` (Style)
 
 ---
 
-## 🛠️ Technical Stack & Tooling
+## � Connect (Call It What You Want)
 
-My development environment is configured for precision and productivity.
-
-*   **Languages**: `C++` (STL), `C`, `JavaScript (ES6+)`, `HTML5/CSS3`
-*   **Compiler**: `GCC` / `Clang`
-*   **Version Control**: `Git` (Branching strategies, atomic commits)
-*   **IDE**: `VS Code` (Linting, Debugging configurations)
-
----
-
-## 📬 Contact & Connect
-
-I am always open to discussing efficient algorithms, system design, or new opportunities.
+I'm **Sonam Narula**. A creative coder with a sharp mind for systems.
 
 <div align="center">
   <br>
   <a href="https://linkedin.com/in/sonamnarula">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/SonamNarula">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
+  <br><br>
+  *"Best believe I'm still bejeweled."* ✨
 </div>
