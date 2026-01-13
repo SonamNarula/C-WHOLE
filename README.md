@@ -47,6 +47,21 @@ The repository is architected to demonstrate progressive mastery of low-level co
 
 ---
 
+## 🏆 Competitive Programming & Problem Solving
+
+I maintain a disciplined daily coding habit, balancing standard DSA revision with competitive programming.
+
+| Platform | Profile | Key Stats |
+| :--- | :--- | :--- |
+| **LeetCode** | [sonamnarula2005](https://leetcode.com/u/sonamnarula2005/) | **Rating:** 1,483 • **Solved:** 484+ • **Badge:** 365 Days Consistency |
+| **Codolio** | [Sonam Narula](https://codolio.com/profile/0PG2lf5S) | **Global Rank:** #1257 • **Best Streak:** 290 Days 🔥 |
+
+**Current Routine:**
+*   **Weekdays:** Core DSA Revision & Government Exam Preparation.
+*   **Weekends:** Virtual Contests & Upsolving.
+
+---
+
 ## 💻 Code Spotlight: Logic Implementation
 
 Efficiency is key. Below is an example of applying mathematical logic to solve problems without unnecessary loops (Example from `CONDITIONALS/` module).
