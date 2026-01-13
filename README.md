@@ -1,129 +1,117 @@
 <div align="center">
 
-# ꒰ა C-WHOLE ໒꒱  
-### ✧･ﾟ: *✧･ﾟ:*  The Complete C/C++ Learning Journey  *:･ﾟ✧*:･ﾟ✧
+# ⚡  C - W H O L E  ⚡
+###  SYSTEM ONLINE // INITIALIZING LEARNING PROTOCOLS...
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=F472B6&center=true&vCenter=true&width=600&lines=console.log(%22Hello+World!%22)%3B;std::cout+%3C%3C+%22Leveling+Up...%22%3B;while(alive)+%7B+code()%3B+%7D;git+commit+-m+%22✨+Sparkles%22" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=INITIATING+C%2B%2B+SEQUENCE...;LOADING+MODULES:+LOGIC+%7C+SYNTAX+%7C+WEB;TARGET:+MASTER+CODING+ARTS;STATUS:+OPTIMIZED" />
 
 <br>
 
-![C](https://img.shields.io/badge/Language-C-blue?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![VS Code](https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Skill-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vibe](https://img.shields.io/badge/Vibe-Cute_%26_Nerdy-FF69B4?style=for-the-badge&logo=star&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&color=ff00ff" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&color=00ffff" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=ff00ff" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=00ffff" />
+  <img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&color=ff00ff" />
+</p>
 
 <br>
 
-> *"Code is poetry written in a language that machines understand."* 💭
+![System Badge](https://img.shields.io/badge/SYSTEM-OPERATIONAL-green?style=for-the-badge&labelColor=black)
+![Uptime](https://img.shields.io/badge/UPTIME-FOREVER-red?style=for-the-badge&labelColor=black)
 
 </div>
 
 ---
 
-## � Hello World! (The Intro)
+## 🔮 THE M.I.S.S.I.O.N (Core Objective)
 
-**Welcome to `C-WHOLE`!** (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
+> *"In a world of zero and ones, be the one."*
 
-This isn't just a repo; it's my digital garden where I nurture my C & C++ skills from tiny seeds to mighty trees! 🌳  
-Here, you'll witness the evolution of a programmer: from `Hello World` to complex algorithms, one commit at a time.
+Welcome to **C-WHOLE** matrix. This repository contains the source code for my evolution as a developer. It tracks the compilation of knowledge from raw inputs (Basics) to complex algorithms (Structures & OOP).
 
-**Focus Area:**
-*   🧠 **Brain Power:** Building solid logic & fundamentals.
-*   ⚡ **Optimization:** Writing clean, efficient code.
-*   🎨 **Creativity:** Sprinkling some web dev magic too!
-*   � **Consistency:** Showing up every day.
-
----
-
-## 📂 The File System (Where code lives)
-
-Dive into the source code! Here's the map of the territory: 🗺️
-
-| Directory | Description | XP Gained |
-| :--- | :--- | :--- |
-| **`BASICS/`** | The training ground. Input/Output, Syntax, and the ABCs of C++. | `+100 XP` |
-| **`CONDITIONALS/`** | The crossroads. `if-else`, switches, and making decisions. | `+150 XP` |
-| **`wedding-website/`** | A special side quest! A cute, interactive web project for a big day. 💍 | `+500 XP` |
+**CURRENT DIRECTIVE:**
+*   **[LOAD]** Fundamental Knowledge
+*   **[EXECUTE]** Practice Programs
+*   **[COMPILE]** Web Projects
+*   **[DEPLOY]** Skills to the Real World
 
 ---
 
-## � Leveling Up: C++ Skills
+## � S.T.A.T.S (System Diagnostics)
 
-Current Status: **Grinding** ⚔️
-
-| Skill Tree Node | Quest Status |
-| :--- | :--- |
-| **Basic Input/Output** | ✅ **Completed** |
-| **Variables & Data Types** | ✅ **Completed** |
-| **Operators & Math** | ✅ **Completed** |
-| **Conditionals (Logic)** | ✅ **Completed** |
-| **Loops & Iteration** | 🔄 *Loading...* |
-| **Functions** | 🔄 *Loading...* |
-| **Arrays & Strings** | � *Locked* |
-| **Pointers (The Boss)** | 🔒 *Locked* |
-| **OOP (The Endgame)** | 🔒 *Locked* |
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SonamNarula&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF00FF&text_color=c9d1d9" alt="Sonam's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonamNarula&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF&text_color=c9d1d9" alt="Top Languages" />
+</div>
 
 ---
 
-## ✨ Side Quests: Web Dev
+## 📂 NEURAL NETWORK (Directory Structure)
 
-Sometimes we switch classes from **C++ Wizard** to **Web Weaver**! 🕸️
+Accessing file system... Access granted. 🔓
 
-### � The Wedding Website
-A custom-coded, aesthetic website featuring:
-*   ✨ **HTML5 Semantic Structure**
-*   🎨 **CSS3 Animations & Styling**
-*   🪄 **Interactive JavaScript Elements**
-
-> Check it out in the `wedding-website` folder!
+| SECTOR | DATA TYPE | FUNCTION | SYSTEM IMPACT |
+| :--- | :--- | :--- | :--- |
+| **`BASICS/`** | `Core` | Input/Output, Syntax Training | `CRITICAL` |
+| **`CONDITIONALS/`** | `Logic` | Decision Making Protocols | `HIGH` |
+| **`wedding-website/`** | `Web` | Interactive User Interface | `CREATIVE` |
 
 ---
 
-## �️ Inventory (Tech Stack)
+## 🛠️ CYBERDECK (Tech Stack)
 
-My current loadout for this adventure:
+**// HARDWARE & SOFTWARE DETECTED:**
 
-*   **Primary Weapons:** `C`, `C++`
-*   **Secondary Weapon:** `HTML`, `CSS`, `JavaScript`
-*   **Editor:** `VS Code` (The forge)
-*   **Version Control:** `Git` (The save point)
-*   **OS:** `MacOS` 🍎
+*   **LANGUAGES**: `C`, `C++`, `JavaScript`, `HTML`, `CSS`
+*   **ENVIRONMENT**: `VS Code` [Neon Enabled]
+*   **VERSIONING**: `Git` [Time Travel Module]
+*   **OS**: `MacOS` [Unix Base]
 
 ---
 
-## 🕹️ How to Run (Terminal Commands)
+## 👾 PROGRESS MATRIX
 
-Want to run this locally? Pop open your terminal and type like a hacker! 👩‍💻
+**[SCANNING SKILL TREES...]**
+
+*   `[██████████]` 100% **Basics** [COMPLETE]
+*   `[██████████]` 100% **Logic** [COMPLETE]
+*   `[████░░░░░░]` 40%  **Loops** [PROCESSING]
+*   `[██░░░░░░░░]` 20%  **Functions** [LOADING]
+*   `[░░░░░░░░░░]` 0%   **Pointers** [LOCKED]
+*   `[░░░░░░░░░░]` 0%   **OOP** [LOCKED]
+
+---
+
+## 🕹️ EXECUTION PROTOCOLS (Run Instructions)
+
+To initialize these programs on your local machine:
 
 ```bash
-# Clone this magical repository
-git clone https://github.com/SonamNarula/C-WHOLE.git
+>> git clone https://github.com/SonamNarula/C-WHOLE.git
+>> cd C-WHOLE
 
-# Enter the dungeon
-cd C-WHOLE
+# [To Compile C++ Modules]
+>> g++ filename.cpp -o program.exe
+>> ./program.exe
 
-# 🔸 To run C++ files:
-g++ filename.cpp -o my_program
-./my_program
-
-# 🔸 To view the website:
-# Just open 'index.html' in Chrome/Firefox/Safari!
+# [To Launch Web Interface]
+>> open wedding-website/index.html
 ```
 
 ---
 
-## � Connect & Support
-
-Made with 💜 and ☕ by **Sonam Narula**.
-
-*   � **GitHub:** [SonamNarula](https://github.com/SonamNarula)
-*   💼 **LinkedIn:** [Sonam Narula](https://www.linkedin.com/in/sonamnarula/)
-
-<br>
 <div align="center">
-  <i>If you enjoyed this, don't forget to SMASH that ⭐ Star button!</i><br>
-  (It feeds my coding dopamine 🍬)
+
+### [END OF TRANSMISSION]
+<br>
+<img src="https://img.shields.io/badge/Connect-Link-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black" />
+<img src="https://img.shields.io/badge/Follow-Link-FF00FF?style=for-the-badge&logo=github&logoColor=white" />
+
+<br><br>
+
+⭐ **STAR THIS REPO TO BOOST SYSTEM PERFORMANCE** ⭐
+
 </div>
