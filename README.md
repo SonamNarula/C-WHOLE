@@ -1,114 +1,106 @@
 <div align="center">
 
 # C-WHOLE
-### The Evolution of a Developer
+### Foundations of Computer Science & Systems Programming
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=std::cout+%3C%3C+%22Commit.+Learn.+Repeat.%22%3B;Building+a+Foundation+in+Computer+Science;One+Line+of+Code+at+a+Time..." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Mastering+Data+Structures+%26+Algorithms;Optimizing+for+Time+and+Space+Complexity;Building+Scalable+Systems+from+Scratch" />
 
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/Algorithms-Theory-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Web_Engineering-HTML%2FCSS%2FJS-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/Language-C++17-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Standard-C11-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/Focus-Systems_Engineering-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Web-Modern_Stack-blueviolet?style=flat-square" />
 </p>
 
 </div>
 
 ---
 
-## // Abstract
+## 🚀 Professional Summary
 
-Welcome to **C-WHOLE**. This repository represents more than just code; it is a living documentation of my journey into Computer Science. 
+Welcome to **C-WHOLE**. This repository serves as a technical portfolio documenting my rigourous journey into **Systems Programming** and **Computer Science Fundamentals**.
 
-Here, I am building a robust understanding of programming fundamentals, starting from the memory-managed world of **C and C++** and extending into creative **Web Development**. My goal is not just to write code that works, but to understand *why* it works.
+Unlike typical tutorials, this codebase focuses on **under-the-hood implementation details**. I am not just learning syntax; I am mastering memory management, pointer arithmetic, and algorithmic efficiency.
 
-> *"The art of programming is the skill of controlling complexity."*
+**Core Competencies:**
+*   **Memory Management**: Manual allocation/deallocation, understanding stack vs. heap.
+*   **Algorithm Optimization**: Writing clean, `O(n)` or `O(log n)` solutions where possible.
+*   **Clean Code Practices**: Adhering to strict naming conventions and modular design principles.
 
 ---
 
-## // Project Architecture
+## 📚 Curriculum & Technical Depth
 
-This repository is structured as a progressive curriculum, organized by concept complexity.
+The repository is architected to demonstrate progressive mastery of low-level concepts.
 
-```text
-C-WHOLE/
-│
-├── BASICS/                # [Module 01] Syntax, I/O, and Memory Model
-├── CONDITIONALS/          # [Module 02] Control Flow and Logic
-├── wedding-website/       # [Project]   Applied Web Development
-└── README.md              # [Doc]       System Documentation
+| Module | Core Concepts & Technical Focus | Implementation Status |
+| :--- | :--- | :--- |
+| **01. Fundamentals** | Stream buffers, Namespaces usage, Preprocessor directives. | `Completed` ✅ |
+| **02. Data Structures** | Primitive types, memory footprint analysis, signed vs unsigned. | `Completed` ✅ |
+| **03. Logic & Flow** | Branch prediction friendly code, Switch-case optimization. | `Completed` ✅ |
+| **04. Algorithms** | Iterative solutions, Loop invariants, Complexity analysis. | `In Progress` 🔄 |
+| **05. Systems** | Function stack frames, Pass-by-value vs Pass-by-reference. | `In Progress` 🔄 |
+
+---
+
+## 💻 Code Spotlight: Logic Implementation
+
+Efficiency is key. Below is an example of applying mathematical logic to solve problems without unnecessary loops (Example from `CONDITIONALS/` module).
+
+```cpp
+/**
+ * Problem: Determine if a year is a Leap Year.
+ * Optimization: Single boolean logic statement instead of nested ifs.
+ * Complexity: O(1) Time | O(1) Space
+ */
+bool isLeapYear(int year) {
+    return (year % 4 == 0 && year % 100 != 0) || (year % 400 == 0);
+}
 ```
 
 ---
 
-## // Learning Modules
+## 🌐 Engineering Showcase: Responsive Web App
 
-| Module ID | Topic | Status | Focus Area |
-| :--- | :--- | :--- | :--- |
-| `0x01` | **Input / Output** | `Compiled` ✅ | Streams, Namespaces |
-| `0x02` | **Data Types** | `Compiled` ✅ | Memory, Variables |
-| `0x03` | **Operators** | `Compiled` ✅ | Arithmetic, Bitwise |
-| `0x04` | **Control Flow** | `Compiled` ✅ | If/Else, Switch |
-| `0x05` | **Loops** | `In Progress` 🔄 | Iteration, Complexity |
-| `0x06` | **Functions** | `In Progress` 🔄 | Stack Frame, Scope |
-| `0x07` | **Pointers** | `Pending` ⏳ | Memory Addresses |
-| `0x08` | **OOP** | `Pending` ⏳ | Classes, Inheritance |
+Beyond systems code, I build modern, user-centric web applications.
 
----
+### [Project] Interactive Wedding Experience
+A highly optimized, responsive web application designed for a seamless user experience.
 
-## // Applied Engineering: Web
+*   **Engineering Challenges**:
+    *   Implementing smooth, uniform CSS animations (60fps target).
+    *   Responsive Grid Layouts for mobile-first compatibility.
+    *   DOM manipulation without heavy framework overhead.
 
-While my core focus is systems programming, I believe in the power of visual creativity.
-
-### 💍 The Wedding Website
-A fully responsive, interactive website built from scratch.
--   **Stack**: HTML5, CSS3, Vanilla JavaScript.
--   **Features**: Custom DOM manipulation, responsive grid layout, and aesthetic CSS animations.
--   **Location**: `wedding-website/`
+> *The code for this project resides in the `wedding-website/` directory.*
 
 ---
 
-## // Stack Trace
+## 🛠️ Technical Stack & Tooling
 
-Tools and technologies currently utilized in this environment:
+My development environment is configured for precision and productivity.
 
--   **Languages**: `C++17`, `C11`, `JavaScript (ES6+)`
--   **Editor**: VS Code (Customized for productivity)
--   **Version Control**: Git & GitHub
--   **OS**: MacOS
-
----
-
-## // Runtime Instructions
-
-To replicate this environment or run specific modules locally:
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/SonamNarula/C-WHOLE.git
-
-# 2. Navigate to directory
-cd C-WHOLE
-
-# 3. Compile a C++ module (Example)
-g++ BASICS/HelloWorld.cpp -o hello
-./hello
-
-# 4. Launch Web Project
-open wedding-website/index.html
-```
+*   **Languages**: `C++` (STL), `C`, `JavaScript (ES6+)`, `HTML5/CSS3`
+*   **Compiler**: `GCC` / `Clang`
+*   **Version Control**: `Git` (Branching strategies, atomic commits)
+*   **IDE**: `VS Code` (Linting, Debugging configurations)
 
 ---
+
+## 📬 Contact & Connect
+
+I am always open to discussing efficient algorithms, system design, or new opportunities.
 
 <div align="center">
   <br>
-  <img src="https://img.shields.io/badge/Maintained%20by-Sonam%20Narula-lightgrey?style=flat-square" />
-  <br><br>
   <a href="https://linkedin.com/in/sonamnarula">
-    <img src="https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/SonamNarula">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
