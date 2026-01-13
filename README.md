@@ -1,23 +1,21 @@
 <div align="center">
 
-# 💎 C-WHOLE (The Eras Tour) 💎
-### *A Journey Through the Eras of Computer Science*
+# � C-WHOLE (The Reputation Era) �
+### *Big Reputation. Big Logic. Big Dreams.*
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=28&duration=4000&pause=1000&color=E6E6FA&center=true&vCenter=true&width=800&lines=Nice+to+meet+you,+where+you+been%3F;I+could+show+you+incredible+things...;Magic,+Madness,+Heaven,+Sin,+and+Algorithms;Welcome+to+the+Eras+Tour+(Source+Code+Version)" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=26&duration=3500&pause=800&color=FFD700&center=true&vCenter=true&width=800&lines=I+bury+hatchets+but+I+keep+maps+of+where+I+put+'em;Darling,+I'm+a+nightmare+dressed+like+a+daydream;Karma+is+a+compiling+code;Nice+to+meet+you,+where+you+been%3F" />
 
 <br>
 
-<!-- BADGE WALL: THE ERAS -->
+<!-- BADGE WALL: THE ERAS & SAVAGE STATS -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Era-Debut-A5C9A1?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Era-Fearless-E8C547?style=for-the-badge&logo=cplusplus&logoColor=black" />
-  <img src="https://img.shields.io/badge/Era-Speak_Now-C58CFA?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Era-Red-7A2E39?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Era-1989-B5E5F8?style=for-the-badge&logo=css3&logoColor=black" />
-  <img src="https://img.shields.io/badge/Era-Reputation-2F2F2F?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Era-Midnights-191970?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Era-Reputation-2F2F2F?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vibe-Savage-800000?style=for-the-badge&logo=sparkles&logoColor=FFD700" />
+  <img src="https://img.shields.io/badge/Status-Mastermind-191970?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Logic-Fearless-FFD700?style=for-the-badge&logo=visualstudiocode&logoColor=black" />
+  <img src="https://img.shields.io/badge/Version-Taylor's_Version-E6E6FA?style=for-the-badge&labelColor=000000&color=E6E6FA" />
 </p>
 
 </div>
@@ -26,162 +24,124 @@
 
 ## 🕯️ The Prologue (Introduction)
 
-> *"It's a love story, baby, just say compile."*
+> *"They say I did something bad, then why's it feel so good (to code)?"*
 
-Welcome to **C-WHOLE**. This repository is more than just a collection of files; it is a meticulously curated exhibition of my journey as a Systems Engineer and Creative Coder.
+Welcome to **C-WHOLE**.  
+This isn't your average tutorial repository. This is a **Mastermind's Archive**.  
+I don't just write code; I orchestrate systems. I don't just solve problems; I bury them.
 
-Much like an artist moves through musical eras, I have moved through **technical eras**—from the raw, acoustic foundations of C to the polished, pop-perfection of Web Development, and the dark, complex reputation of Competitive Programming.
-
-**Why This Exists:**
-This is my "Mastermind" plan. To build a legacy of code that is:
-1.  **Intelligent**: Optimized, rigorous, and logically sound.
-2.  **Creative**: proof that logic and art are not mutually exclusive.
-3.  **Sincere**: A true reflection of the hard work (and segmentation faults) along the way.
+**The Narrative:**
+*   **The 1**: Optimizing for `O(1)` complexity because I don't waste time.
+*   **Invisible String**: Using Pointers to tie memory addresses together.
+*   **Karma**: Writing clean code because bad code always comes back around.
 
 ---
 
 <!-- ERA 1: DEBUT (THE BASICS) -->
 ## 🦋 The Debut Era (Foundations)
-### *"Our Song is a slammed screen door (and a Hello World)"*
+### *"Our Song is a slammed screen door (and a segmentation fault)."*
 
-**Theme**: 🟢 *Teardrops on my Keyboard (Green)*  
-**Focus**: The raw, unpolished beginning. Understanding the syntax that started it all.
+**Theme**: 🟢 *Teal / The Beginning*  
+**Quote**: *"I didn't know if you knew, so I'm taking this chance to say... Hello World."*
 
-Before we could run, we had to crawl through memory addresses. This era represents the pure, acoustic basics of C++.
+Before the reputation, there was just the syntax. The acoustic version of my coding journey. This era is pure, raw, and unoptimized—but it's where the magic began.
 
-### 📀 The Tracklist (Modules)
+### 📀 The Tracklist (Foundation Modules)
 
-| Track # | Concept | Description | Status |
+| Track | Lyric (Concept) | Description (The Meaning) | Status |
 | :--- | :--- | :--- | :--- |
-| **01** | `std::cout` | The very first note. Output streams and namespaces. | **Platinum** 💿 |
-| **02** | `Variables` | Storing secrets (data). Types, sizes, and scope. | **Platinum** 💿 |
-| **03** | `Data Types` | The primitive building blocks. `int`, `char`, `bool`. | **Gold** 📀 |
-| **04** | `Operators` | Mathematical wizardry. `+`, `-`, `++`, `<<`. | **Gold** 📀 |
-| **05** | `Input` | `std::cin`. Listening to the user. | **Gold** 📀 |
+| **01** | **Cold As You** | `const` variables. Unchanging and absolute. | � |
+| **02** | **The Outside** | `std::cout`. Putting my thoughts into the console. | � |
+| **03** | **Tied Together With A Smile** | `Data Types`. Holding it all together. | � |
+| **04** | **Stay Beautiful** | `Clean Code`. Formatting matters. | � |
 
 ### 🔓 From The Vault (Code Snippet)
-*A classic track from the early days.*
+*Writing "Teardrops on my Keyboard" one semicolon at a time.*
 
 ```cpp
-// "Cold as you" - The const keyword
-const float PI = 3.14159; 
-// PI = 3.14; // Error: You can't change the classics.
+// "I'm only me when I'm with you" - References
+int& myHeart = taylor; 
+// Changing 'myHeart' changes 'taylor'. Forever linked.
 ```
 
 ---
 
 <!-- ERA 2: FEARLESS (LOGIC) -->
-## 💛 The Fearless Era (Logic & Control)
-### *"Head first, fearless."*
+## 💛 The Fearless Era (Logic)
+### *"In your life, you'll do things greater than dating the boy on the football team. Like mastering Algorithms."*
 
 **Theme**: 🟡 *Gold / Brave*  
-**Focus**: Making decisions. Branching paths. Facing the logic errors head-on.
+**Quote**: *"It's a love story, baby, just say... `true`."*
 
-This era was about taking the leap. Moving from linear execution to complex decision trees. It's about being "Fearless" enough to trust your logic.
+Logic is a battlefield. It requires bravery to face nested loops and complex conditionals. I jumped in, head first, fearless.
 
-### 📀 The Tracklist (Modules)
+### 📀 The Tracklist (Logic Modules)
 
-| Track # | Concept | Description | Status |
+| Track | Lyric (Concept) | Description (The Meaning) | Status |
 | :--- | :--- | :--- | :--- |
-| **01** | `If-Else` | The "Love Story". Two paths, one destiny. | **Platinum** 💿 |
-| **02** | `Switch` | "You belong with me". Optimizing selection. | **Platinum** 💿 |
-| **03** | `Ternary` | "Fifteen". Short, sweet, and conditional. | **Gold** 📀 |
-| **04** | `Logic` | `&&`, `||`. Combining conditions like lyrics. | **Gold** 📀 |
-| **05** | `Nesting` | "The Way I Loved You". Complicated relationships. | **Gold** 📀 |
-
-### 🔓 From The Vault (Code Snippet)
-*Navigating the "White Horse" of boolean logic.*
-
-```cpp
-// Love Story: The Condition
-if (romeo == true && juliet == true) {
-    std::cout << "Marry me, Juliet, you'll never have to be alone.";
-} else {
-    std::cout << "I got tired of waiting...";
-}
-```
+| **01** | **Love Story** | `If-Else`. Two variables, one destiny. | � |
+| **02** | **You Belong With Me** | `Switch Case`. Choosing the right path. | � |
+| **03** | **Fifteen** | `Loops`. Doing the same thing, learning every time. | 👑 |
+| **04** | **Forever & Always** | `While(true)`. Infinite loops (until we break). | 👑 |
 
 ---
 
-<!-- ERA 3: SPEAK NOW (FUNCTIONS) -->
-## 💜 The Speak Now Era (Functions)
-### *"Drop everything now."*
-
-**Theme**: 🟣 *Purple / Self-Written*  
-**Focus**: Writing your own story. Modular code. Custom functions.
-
-"Speak Now" is entirely self-written. In code, this means writing our own **Functions**. No longer relying on `main()`, we define our own verses and choruses.
-
-### 📀 The Tracklist (Modules)
-
-| Track # | Concept | Description | Status |
-| :--- | :--- | :--- | :--- |
-| **01** | `Void` | "Enchanted". Returning nothing but magic. | **In Progress** 🔄 |
-| **02** | `Return` | "Mine". Ownership of the result. | **In Progress** 🔄 |
-| **03** | `Params` | "Spark Fly". Passing data between worlds. | **Pending** ⏳ |
-| **04** | `Overload` | "Better Than Revenge". Same name, different game. | **Pending** ⏳ |
-| **05** | `Recursion` | "Back To December". Going back to the start. | **Pending** ⏳ |
-
----
-
-<!-- ERA 4: RED (MEMORY & POINTERS) -->
+<!-- ERA 3: RED (MEMORY) -->
 ## 🧣 The Red Era (Systems)
-### *"Loving him was red (and dangerous)."*
+### *"Loving him was red. Memorizing hex addresses was maroon."*
 
-**Theme**: 🔴 *Dark Red / Intensity*  
-**Focus**: Memory Management. Pointers. The heartbreak of Segfaults.
+**Theme**: 🔴 *Dark Red / Passion / Danger*  
+**Quote**: *"I think I've seen this film before, and I didn't like the ending (it was a crash)."*
 
-This is the intense era. **Pointers**. Direct memory access. It's dangerous, it's fast, and it crashes if you treat it wrong. It's "Red".
+This is the era of **Pointers** and **Memory Management**. It's fast, it's dangerous, and it breaks your heart if you're careless.
 
-> *PRO TIP: "Memorizing him was as easy as knowing all the words to your old favorite song." - Understanding Hex Addresses.*
+**The "Invisible String" Theory:**
+> *Pointers are just invisible strings connecting data across the vast memory heap. Isn't it just so pretty to think so?*
 
-### 📀 The Tracklist (Modules)
+### 📀 The Tracklist (Systems Modules)
 
-| Track # | Concept | Description | Status |
+| Track | Lyric (Concept) | Description (The Meaning) | Status |
 | :--- | :--- | :--- | :--- |
-| **01** | `AddressOf` | "State of Grace". Finding where the data lives. | **Locked** 🔒 |
-| **02** | `Pointers` | "Treacherous". Direct access. Handle with care. | **Locked** 🔒 |
-| **03** | `De-Ref` | "I Knew You Were Trouble". accessing the value. | **Locked** 🔒 |
-| **04** | `Heap` | "All Too Well (10 Minute Version)". Dynamic & Vast. | **Locked** 🔒 |
-| **05** | `Leaks` | "We Are Never Ever Getting Back Together". Learning to `delete`. | **Locked** 🔒 |
+| **01** | **State of Grace** | `&Address`. Finding where you belong. | � |
+| **02** | **Treacherous** | `*Pointer`. A dangerous path to walk. | � |
+| **03** | **I Knew You Were Trouble** | `Segmentation Fault`. I should have known. | � |
+| **04** | **All Too Well** | `Memory Leaks`. I remember it all too well (because I forgot to `delete`). | � |
 
 ---
 
-<!-- ERA 5: 1989 (WEB DEV) -->
+<!-- ERA 4: 1989 (WEB DEV) -->
 ## 🩵 The 1989 Era (Reinvention)
-### *"Welcome to New York (The World Wide Web)."*
+### *"Welcome to New York. It's been waiting for you (to optimize it)."*
 
-**Theme**: 🔵 *Sky Blue / Pop Perfection*  
-**Focus**: Reinvention. Moving from CLI to GUI. HTML, CSS, Creativity.
+**Theme**: 🔵 *Sky Blue / Polish*  
+**Quote**: *"I could show you incredible things... magic, madness, heaven, sin."*
 
-I shook it off. I moved from the terminal to the browser. This era is about aesthetic perfection, responsive design, and looking *good*.
+I shook off the terminal and stepped into the browser. This era is about **Aesthetics, Animation, and Style**.
 
 ### 🏙️ Project: The Wedding Website
-*A "Wildest Dream" come to life.*
+*"Nice to meet you, where you been?"*
 
-A fully custom-coded, interactive experience.
-*   **Style**: "Style". Pure CSS animations.
-*   **Framework**: None. "Clean".
-*   **Vibe**: "Blank Space" (filled with love).
-
-> **Check it out in:** `wedding-website/`
+A stunning, responsive web experience.
+*   **Style**: "Style". (CSS3 Animations).
+*   **Vibe**: "Wildest Dreams". (Interactive & Dreamy).
+*   **Code**: [View The Source](wedding-website/)
 
 ---
 
-<!-- ERA 6: REPUTATION (COMPETITIVE PROGRAMMING) -->
+<!-- ERA 5: REPUTATION (COMPETITIVE PROGRAMMING) -->
 ## 🐍 The Reputation Era (Mastermind)
-### *"Big Reputation. Big Reputation."*
+### *"I bury hatchets, but I keep maps of where I put 'em."*
 
-**Theme**: ⚫ *Black / Hardcore*  
-**Focus**: Algorithms. LeetCode. Consistency. Revenge on hard problems.
+**Theme**: ⚫ *Black / Revenge / Hardcore*  
+**Quote**: *"Look what you made me do." (You made me optimize this to O(n)).*
 
-Use the code. Build the logic. Don't let the compiler win. This is my "Reputation" era—where I prove that I can solve the hardest problems.
+This is where I prove my intelligence. Competitive Programming is my arena. I don't just play; I win.
 
 ### ♟️ The Mastermind Stats
 
 <div align="center">
 
-| ⚔️ Platform | 👤 Profile | 📊 Key Metrics |
+| ⚔️ Platform | 👤 Profile | 📊 Savage Stats |
 | :--- | :--- | :--- |
 | **LeetCode** | [sonamnarula2005](https://leetcode.com/u/sonamnarula2005/) | <img src="https://img.shields.io/badge/Rating-1483-black?style=flat-square&logo=leetcode&logoColor=orange" /> <br> <img src="https://img.shields.io/badge/Solved-484+-black?style=flat-square&logo=cplusplus&logoColor=white" /> |
 | **Codolio** | [Sonam Narula](https://codolio.com/profile/0PG2lf5S) | <img src="https://img.shields.io/badge/Rank-%231257-191970?style=flat-square&logo=codolio&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Streak-290_Days-fire?style=flat-square" /> |
@@ -189,34 +149,34 @@ Use the code. Build the logic. Don't let the compiler win. This is my "Reputatio
 </div>
 
 **The Strategy:**
-*   **Look What You Made Me Do**: Daily Problem Solving.
-*   **End Game**: Reaching Guardian Rank.
-*   **Delicate**: Handling Edge Cases.
+*   **Karma**: "Karma is my boyfriend (and it calculates accurately)."
+*   **End Game**: "I wanna be your End Game (Guardian Rank)."
+*   **Don't Blame Me**: "Don't blame me, logic made me crazy."
 
 ---
 
-<!-- ERA 7: MIDNIGHTS (THE FUTURE) -->
-## �️ The Midnights Era (What's Next?)
+<!-- ERA 6: MIDNIGHTS (FUTURE) -->
+## 🕰️ The Midnights Era (What's Next?)
 ### *"Meet me at midnight."*
 
-**Theme**: 🔵 *Midnight Blue / Reflection*  
-**Focus**: The future. System Design. Creating a legacy.
+**Theme**: 🔵 *Dark Blue / Reflection*  
+**Quote**: *"Draw the cat eye sharp enough to kill a man (and this bug)."*
 
-I'm currently in my "Midnights" era—reflecting on what I've learned and planning for the sleepless nights of building great software.
+I'm staying up late, planning my next move.
 
-**The Roadmap (Karma):**
--   [ ] **Object Oriented Programming** ("Karma is a cat")
--   [ ] **Data Structures** ("Vigilante Shit")
--   [ ] **System Design** ("Mastermind")
+**The Roadmap (Vigilante Shit):**
+-   [ ] **OOP**: "Baby, I'm the problem, it's me" (Classes & Objects).
+-   [ ] **System Design**: "Mastermind" architectures.
+-   [ ] **Projects**: "Glitch" applications.
 
 ---
 
-## 🫶 The Credits (Contact)
+## 🫶 The Credits (Call It What You Want)
 
 *"Long live all the magic we made."*
 
-This repository is maintained by **Sonam Narula**.  
-If you want to talk about **Systems Engineering**, **Optimization**, or which Taylor Swift bridge is the best (it's "Champagne Problems"), connect with me.
+Maintained by **Sonam Narula**.  
+If you want to talk about **Systems Engineering** or why *Reputation* is the best album, find me here:
 
 <div align="center">
   <br>
@@ -227,5 +187,5 @@ If you want to talk about **Systems Engineering**, **Optimization**, or which Ta
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <br><br>
-  <img src="https://img.shields.io/badge/Made%20With-Love%20%26%20C++-E6E6FA?style=flat-square" />
+  *"Best believe I'm still bejeweled."* ✨
 </div>
