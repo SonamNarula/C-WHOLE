@@ -54,6 +54,8 @@ I do not write code to simply "make it work." I write code to understand **why**
 
 Before the complexity, there was just the `main()` function. This era represents the pure, unadulterated basics.
 
+> **Source Code:** [BASICS/](BASICS/)
+
 ### � The Tracklist (Liner Notes)
 
 <details>
@@ -78,6 +80,12 @@ The primitive building blocks: <code>int</code>, <code>float</code>, <code>char<
 Where does data live? Stack vs Global scope. Understanding the lifecycle of a variable.
 </details>
 
+### 📜 The Manuscripts (Study Notes)
+> *"I read the notes on the screen, I wrote it down."*
+
+Collection of PDF notes and key concepts.
+> **Access the Archives:** [imp📌/](imp📌/)
+
 ### 🔓 From The Vault (Snippet)
 ```cpp
 // "Cold As You" - The Constant
@@ -96,6 +104,8 @@ const double GRAVITY = 9.8;
 **Philosophy**: "Breathe in, breathe through, breathe deep, breathe out."
 
 This era is about the courage to make decisions. To branch out. To handle the `If`, the `Else`, and the infinite `While`.
+
+> **Source Code:** [CONDITIONALS/](CONDITIONALS/) & [LOOPS/](LOOPS/)
 
 ### � The Tracklist (Liner Notes)
 
@@ -153,6 +163,8 @@ Nested loops to create structure out of chaos.
 
 In this era, I stopped using other people's code and started writing my own. **Functions** are the verses of my code.
 
+> **Source Code:** [FUNCTIONS/](FUNCTIONS/)
+
 ### 💿 The Tracklist (Liner Notes)
 
 <details>
@@ -186,6 +198,8 @@ Pass by Value vs Pass by Reference. "Don't you think I was too young to be messe
 **Philosophy**: "Nothing safe is worth the drive."
 
 This is the dangerous era. Direct memory access. **Pointers**. It's fast, it's powerful, and it's unforgiving.
+
+> **Source Code:** [POINTERS/](POINTERS/)
 
 ### � The Tracklist (Liner Notes)
 
