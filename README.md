@@ -1,6 +1,7 @@
 <div align="center">
 
 # 💎 C-WHOLE: THE ANTHOLOGY 💎
+
 ### *The Magnum Opus of a Systems Engineer*
 
 <br>
@@ -10,6 +11,7 @@
 <br>
 
 <!-- THE ERAS BADGE WALL (EXPANDED) -->
+
 <p align="center">
   <img src="https://img.shields.io/badge/Era-Debut-A5C9A1?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Era-Fearless-E8C547?style=for-the-badge&logo=cplusplus&logoColor=black" />
@@ -31,13 +33,15 @@
 
 > *"I love you, it's ruining my life (this code)."*
 
-Welcome to **C-WHOLE**.  
+Welcome to **C-WHOLE**.
 This repository is my **Anthology**. It is a living, breathing documentation of my obsession with the intricate logic of machines. It is not merely a collection of scripts; it is a **Systems Engineering Philosophy**.
 
 I do not write code to simply "make it work." I write code to understand **why** it works. I dive into the memory heap, I wrestle with pointers, and I optimize algorithms until they scream.
 
 **THE PROCLAMATION:**
-### **I have a strong command on DSA.** 
+
+### **I have a strong command on DSA.**
+
 **I have restarted the whole curriculum for a rigorous revision, and I am here to maintain a flawless GitHub streak.**
 
 > *"Karma is a compiling code, purring in my lap 'cause it loves me."*
@@ -45,10 +49,12 @@ I do not write code to simply "make it work." I write code to understand **why**
 ---
 
 <!-- ERA 1: DEBUT (THE ROOTS) -->
+
 ## 🦋 THE DEBUT ERA (Foundations)
+
 ### *"He's the reason for the Teardrops on my Keyboard (Syntax Errors)."*
 
-**Theme**: 🟢 *Teal (The Beginning)*  
+**Theme**: 🟢 *Teal (The Beginning)*
 **Focus**: The raw, acoustic roots of C++.
 **Philosophy**: "You have to know the rules to break them."
 
@@ -81,12 +87,15 @@ Where does data live? Stack vs Global scope. Understanding the lifecycle of a va
 </details>
 
 ### 📜 The Manuscripts (Study Notes)
+
 > *"I read the notes on the screen, I wrote it down."*
 
 Collection of PDF notes and key concepts.
+
 > **Access the Archives:** [imp📌/](imp📌/)
 
 ### 🔓 From The Vault (Snippet)
+
 ```cpp
 // "Cold As You" - The Constant
 const double GRAVITY = 9.8; 
@@ -96,10 +105,12 @@ const double GRAVITY = 9.8;
 ---
 
 <!-- ERA 2: FEARLESS (LOGIC) -->
+
 ## 💛 THE FEARLESS ERA (Logic & Control)
+
 ### *"Head first, Fearless."*
 
-**Theme**: 🟡 *Gold (Bravery)*  
+**Theme**: 🟡 *Gold (Bravery)*
 **Focus**: Branching, Loops, and Decision Making.
 **Philosophy**: "Breathe in, breathe through, breathe deep, breathe out."
 
@@ -154,10 +165,12 @@ Nested loops to create structure out of chaos.
 ---
 
 <!-- ERA 3: SPEAK NOW (FUNCTIONS) -->
+
 ## 💜 THE SPEAK NOW ERA (Modular Design)
+
 ### *"Drop everything now."*
 
-**Theme**: 🟣 *Purple (Self-Expression)*  
+**Theme**: 🟣 *Purple (Self-Expression)*
 **Focus**: Functions, Recursion, and Writing Your Own Story.
 **Philosophy**: "I am the architect, I am the builder."
 
@@ -190,10 +203,12 @@ Pass by Value vs Pass by Reference. "Don't you think I was too young to be messe
 ---
 
 <!-- ERA 4: RED (MEMORY SYSTEMS) -->
+
 ## 🧣 THE RED ERA (Pointers & Memory)
+
 ### *"Loving him was Red. Memorizing Hex addresses was Maroon."*
 
-**Theme**: 🔴 *Red (Intensity & Danger)*  
+**Theme**: 🔴 *Red (Intensity & Danger)*
 **Focus**: Pointers, References, Stack vs Heap.
 **Philosophy**: "Nothing safe is worth the drive."
 
@@ -228,6 +243,7 @@ Forgetting to <code>delete</code> what you <code>new</code>. The memory stays th
 </details>
 
 ### 🔓 From The Vault (Snippet)
+
 ```cpp
 int* invisibleString = &me;
 // And isn't it just so pretty to think,
@@ -237,32 +253,38 @@ int* invisibleString = &me;
 ---
 
 <!-- ERA 5: 1989 (WEB ENGINEERING) -->
+
 ## 🩵 THE 1989 ERA (Reinvention & Style)
+
 ### *"Welcome to New York. It's been waiting for you (to optimize it)."*
 
-**Theme**: 🔵 *Sky Blue (Polish)*  
+**Theme**: 🔵 *Sky Blue (Polish)*
 **Focus**: Web Development. Visuals. User Experience.
 **Philosophy**: "We never go out of style."
 
 I shook off the terminal and stepped into the visual world. HTML, CSS, DOM Manipulation.
 
 ### 🏙️ Project Spotlight: The Wedding Website
+
 *"Nice to meet you, where you been?"*
 
 A Masterpiece of **Responsive Design** and **CSS Animation**.
--   **Structure**: Semantic HTML5 (The Skeleton).
--   **Style**: Pure CSS3 (The Lipstick).
--   **Logic**: Vanilla JavaScript DOM (The Brains).
+
+- **Structure**: Semantic HTML5 (The Skeleton).
+- **Style**: Pure CSS3 (The Lipstick).
+- **Logic**: Vanilla JavaScript DOM (The Brains).
 
 > **Check it out in:** `wedding-website/`
 
 ---
 
 <!-- ERA 6: REPUTATION (COMPETITIVE PROGRAMMING) -->
+
 ## 🐍 THE REPUTATION ERA (Mastermind)
+
 ### *"Big Reputation. Big Logic."*
 
-**Theme**: ⚫ *Black (Hardcore & Revenge)*  
+**Theme**: ⚫ *Black (Hardcore & Revenge)*
 **Focus**: DSA, Competitive Programming, Optimization.
 **Philosophy**: "I bury hatchets, but I keep maps of where I put 'em."
 
@@ -273,44 +295,51 @@ I have restarted my entire DSA journey to ensure absolute mastery. I am not caus
 
 <div align="center">
 
-| ⚔️ Platform | 👤 Profile | 📊 Savage Metrics |
-| :--- | :--- | :--- |
-| **LeetCode** | [sonamnarula2005](https://leetcode.com/u/sonamnarula2005/) | <img src="https://img.shields.io/badge/Rating-1483-black?style=flat-square&logo=leetcode&logoColor=orange" /> <br> <img src="https://img.shields.io/badge/Solved-484+-black?style=flat-square&logo=cplusplus&logoColor=white" /> |
-| **Codolio** | [Sonam Narula](https://codolio.com/profile/0PG2lf5S) | <img src="https://img.shields.io/badge/Rank-%231257-191970?style=flat-square&logo=codolio&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Streak-290_Days-fire?style=flat-square" /> |
+| ⚔️ Platform      | 👤 Profile                                              | 📊 Savage Metrics                                                                                                                                                                                                                            |
+| :----------------- | :------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **LeetCode** | [sonamnarula2005](https://leetcode.com/u/sonamnarula2005/) | `<img src="https://img.shields.io/badge/Rating-1483-black?style=flat-square&logo=leetcode&logoColor=orange" />` `<br>` `<img src="https://img.shields.io/badge/Solved-484+-black?style=flat-square&logo=cplusplus&logoColor=white" />` |
+| **Codolio**  | [Sonam Narula](https://codolio.com/profile/0PG2lf5S)       | `<img src="https://img.shields.io/badge/Rank-%231257-191970?style=flat-square&logo=codolio&logoColor=white" />` `<br>` `<img src="https://img.shields.io/badge/Streak-290_Days-fire?style=flat-square" />`                             |
 
 </div>
 
 ### 📜 The Strategy (Karma)
-1.  **Don't Blame Me**: Logic made me crazy. I optimize for `O(n)`.
-2.  **Look What You Made Me Do**: I solved it in one line.
-3.  **End Game**: Guardian Rank.
+
+1. **Don't Blame Me**: Logic made me crazy. I optimize for `O(n)`.
+2. **Look What You Made Me Do**: I solved it in one line.
+3. **End Game**: Guardian Rank.
 
 ---
 
 <!-- ERA 7: THE TORTURED POETS DEPARTMENT (DEBUGGING) -->
+
 ## 📜 THE TORTURED CODERS DEPARTMENT
+
 ### *"I love you, it's ruining my life."*
 
-**Theme**: ⚪ *Beige (Melancholy)*  
+**Theme**: ⚪ *Beige (Melancholy)*
 **Focus**: Debugging. Refactoring. The Pain.
 
-This section is dedicated to the hours spent staring at a missing semicolon. 
--   **The Black Dog**: The bug that follows you home.
--   **I Can Do It With A Broken Heart**: Coding through the errors.
+This section is dedicated to the hours spent staring at a missing semicolon.
+
+- **The Black Dog**: The bug that follows you home.
+- **I Can Do It With A Broken Heart**: Coding through the errors.
 
 ---
 
 <!-- ERA 8: MIDNIGHTS (FUTURE) -->
+
 ## 🕰️ THE MIDNIGHTS ERA (What's Next?)
+
 ### *"Meet me at midnight."*
 
-**Theme**: 🔵 *Midnight Blue (The Future)*  
+**Theme**: 🔵 *Midnight Blue (The Future)*
 **Focus**: System Design. Architecture. Legacy.
 
 I am planning. I am plotting.
--   [ ] **Mastermind**: System Design & Scalability.
--   [ ] **Vigilante Shit**: Automated Testing.
--   [ ] **Bejeweled**: Polishing the portfolio.
+
+- [ ] **Mastermind**: System Design & Scalability.
+- [ ] **Vigilante Shit**: Automated Testing.
+- [ ] **Bejeweled**: Polishing the portfolio.
 
 ---
 

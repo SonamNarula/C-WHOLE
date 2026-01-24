@@ -1,14 +1,22 @@
 {
-    "version": "0.2.0",
-    "configurations": [
-        {
-            "name": "C++ Debug",
-            "type": "lldb",
-            "request": "launch",
-            "program": "${fileDirname}/${fileBasenameNoExtension}",
-            "args": [],
-            "cwd": "${fileDirname}",
-            "preLaunchTask": "Build C++"
-        }
-    ]
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C++ Debug",
+      "type": "lldb",
+      "request": "launch",
+      "program": "${fileDirname}/${fileBasenameNoExtension}",
+      "args": [],
+      "cwd": "${fileDirname}",
+      "preLaunchTask": "Build C++"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/sonamnarula/Desktop/cpp/BASICS",
+      "program": "/Users/sonamnarula/Desktop/cpp/BASICS/build/Debug/outDebug"
+    }
+  ]
 }

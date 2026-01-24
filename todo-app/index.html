@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NebulaDo | Mission Control</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Orbitron:wght@400;500;700&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="stars"></div>
+    <div class="twinkling"></div>
+
+    <div class="app-container glass-panel">
+        <header>
+            <h1 class="glow-text">Mission Control</h1>
+            <div class="stats-panel glass-panel-sm">
+                <div class="level-indicator">
+                    <span class="label">Rank</span>
+                    <span id="rank-name" class="value">Cadet</span>
+                </div>
+                <div class="xp-container">
+                    <div class="xp-bar-bg">
+                        <div id="xp-bar-fill" class="xp-bar-fill"></div>
+                    </div>
+                    <span id="xp-text" class="xp-text">0 / 100 XP</span>
+                </div>
+                <div class="level-badge">
+                    <span id="level-number">1</span>
+                </div>
+            </div>
+        </header>
+
+        <main>
+            <div class="input-group">
+                <input type="text" id="task-input" placeholder="Initialize new mission protocol..." autocomplete="off">
+                <button id="add-btn" class="cosmic-btn">Deploy</button>
+            </div>
+
+            <ul id="task-list" class="task-list">
+                <!-- Tasks will be injected here -->
+            </ul>
+        </main>
+
+        <footer>
+            <p>System Status: <span class="status-ok">ONLINE</span></p>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
