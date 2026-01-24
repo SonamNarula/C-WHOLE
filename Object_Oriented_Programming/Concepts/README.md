@@ -11,6 +11,8 @@ This folder contains isolated examples of major Object-Oriented Programming conc
 5. **[Polymorphism](5_Polymorphism.cpp)**: Overloading and Overriding (Many forms).
 6. **[Abstraction](6_Abstraction.cpp)**: Hiding details with Abstract Classes.
 7. **[Friend & Static](7_FriendAndStatic.cpp)**: Special access and shared members.
+8. **[The 'this' Pointer](8_ThisPointer.cpp)**: Object self-reference (Cornelia Street).
+
 
 ## How to Run
 
