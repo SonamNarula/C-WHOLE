@@ -16,6 +16,8 @@ This folder contains isolated examples of major Object-Oriented Programming conc
 10. **[Shallow vs Deep Copy](10_ShallowDeepCopy.cpp)**: The dangers of shared memory (I Knew You Were Trouble).
 11. **[Destructor & RAII](11_Destructor.cpp)**: Automated Cleanup & Resource Management (The Last Time).
 12. **[Detailed Inheritance](12_InheritanceDetailed.cpp)**: Multilevel, Multiple, & Virtual Inheritance (Folklore).
+13. **[Static Keyword](13_StaticKeywordDetailed.cpp)**: Shared Data, Static Methods, & Local Static Variables (The Timeless Concept).
+
 
 
 
