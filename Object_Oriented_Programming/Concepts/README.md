@@ -12,7 +12,9 @@ This folder contains isolated examples of major Object-Oriented Programming conc
 6. **[Abstraction](6_Abstraction.cpp)**: Hiding details with Abstract Classes.
 7. **[Friend & Static](7_FriendAndStatic.cpp)**: Special access and shared members.
 8. **[The 'this' Pointer](8_ThisPointer.cpp)**: Object self-reference (Cornelia Street).
-9. **[Copy Constructor](9_CopyConstructor.cpp)**: Deep vs Shallow Copy (Cloning).
+9. **[Copy Constructor](9_CopyConstructor.cpp)**: Cloning methods.
+10. **[Shallow vs Deep Copy](10_ShallowDeepCopy.cpp)**: The dangers of shared memory (I Knew You Were Trouble).
+
 
 
 
