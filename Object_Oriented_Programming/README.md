@@ -16,6 +16,11 @@ The start of something new. Basic building blocks and simple classes.
 ### 💿 `Testing_Assignment` (Speak Now) 💜
 Writing tests, detecting bugs, and speaking up about them.
 
+### 💿 `Concepts` (Red) 🧣
+*Burning Red.*
+Isolated examples of every major OOP topic (Polymorphism, Inheritance, etc.) so you can learn them all too well.
+
+
 ### 💿 `My_Profile` (Lover) 💖
 Classes representing "Me" and specific "Developer" traits.
 *> "I promise that you'll never find another like me."*
