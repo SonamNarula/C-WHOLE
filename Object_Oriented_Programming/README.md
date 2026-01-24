@@ -1,67 +1,64 @@
-# Object-Oriented Programming (Taylor's Version) 🧣✨
+# ~/Object_Oriented_Programming 🧣
 
-> *"It's a love story, baby, just say yes... to C++."*
+```cpp
+// "It's a love story, baby, just say yes... to C++."
+const string vibe = "Simple. Nerdy. Aesthetic.";
+```
 
-Welcome to this **Object-Oriented Programming** collection. We're entering our **Code Era**.
-This repository is dedicated to keeping C++ **simple**, **nerdy**, and **aesthetic**.
-
----
-
-## 🎻 The Eras (Folder Structure)
-
-### 💿 `Beginners` (The Debut) 💚
-The start of something new. Basic building blocks and simple classes.
-*> "I didn't know how to be a coder when I was fifteen."*
-
-### 💿 `Testing_Assignment` (Speak Now) 💜
-Writing tests, detecting bugs, and speaking up about them.
-
-### 💿 `Concepts` (Red) 🧣
-*Burning Red.*
-Isolated examples of every major OOP topic (Polymorphism, Inheritance, etc.) so you can learn them all too well.
-
-
-### 💿 `My_Profile` (Lover) 💖
-Classes representing "Me" and specific "Developer" traits.
-*> "I promise that you'll never find another like me."*
+Welcome to my **OOP Collection**. This repository is curated like a perfect playlist—structured, emotional, and logically sound.
 
 ---
 
-## 🎸 The Concepts (Tracklist)
+## 📂 File System (The Eras)
 
-**1. Classes & Objects** 👯‍♀️ *(You Belong With Me)*
-Data and functions belong together. We bundle them so they represent real-world entities.
+```mermaid
+graph TD;
+    OOP-->Beginners;
+    OOP-->Testing_Assignment;
+    OOP-->Concepts;
+    OOP-->My_Profile;
+```
 
-**2. Encapsulation** 🖤 *(Reputation)*
-Keeping our `private` data guarded. Big reputation, big protection.
+- **`Beginners/`** 💛 *The Debut*  
+  Basic building blocks. `std::cout << "Hello World";`
 
-**3. Inheritance** 👩‍👧 *(The Man)*
-Passing down traits and attributes. We never go out of style.
+- **`Testing_Assignment/`** 💜 *Speak Now*  
+  `assert(code == clean);` // Identifying bugs.
 
-**4. Polymorphism** 🐍 *(Look What You Made Me Do)*
-One interface, many forms. The code adapts like a mastermind.
+- **`Concepts/`** 🧣 *Red*  
+  Isolated examples of specific OOP topics.
 
-**5. Memory Management** 🍂 *(Begin Again)*
-Constructors to start, destructors for closure.
+- **`My_Profile/`** 💖 *Lover*  
+  `class Me : public Developer {};`
+
+---
+
+## 🎧 The Tracklist (Concepts)
+
+| Track | Concept | Lyric/Vibe |
+| :--- | :--- | :--- |
+| **01** | `class Object` | *"You belong with me."* |
+| **02** | `private:` | *"Big Reputation." (Encapsulation)* |
+| **03** | `class Child : Parent` | *"I'd be the man." (Inheritance)* |
+| **04** | `virtual void()` | *"Look what you made me do." (Polymorphism)* |
+| **05** | `~Desctructor()` | *"Closing the chapter."* |
 
 ---
 
-## 🎧 How To Play (Usage)
+## 💻 Usage
 
-1. **Clone the Repo** (Get the album):
-   ```bash
-   git clone https://github.com/SonamNarula/C-WHOLE.git
-   ```
+```bash
+# Clone the era
+git clone https://github.com/SonamNarula/C-WHOLE.git
 
-2. **Compile** (Rehearse):
-   ```bash
-   g++ -o me Object_Oriented_Programming/My_Profile/Me.cpp
-   ```
+# Enter the simulation
+cd Object_Oriented_Programming/My_Profile
 
-3. **Run** (Perform):
-   ```bash
-   ./me
-   ```
+# Compile the aesthetic
+g++ Me.cpp -o me && ./me
+```
 
 ---
-*> "Long live all the magic we made."* 🪄
+
+> *"Long live all the magic we made."* 🪄  
+> `return 0;`
