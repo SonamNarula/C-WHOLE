@@ -14,6 +14,8 @@ This folder contains isolated examples of major Object-Oriented Programming conc
 8. **[The 'this' Pointer](8_ThisPointer.cpp)**: Object self-reference (Cornelia Street).
 9. **[Copy Constructor](9_CopyConstructor.cpp)**: Cloning methods.
 10. **[Shallow vs Deep Copy](10_ShallowDeepCopy.cpp)**: The dangers of shared memory (I Knew You Were Trouble).
+11. **[Destructor & RAII](11_Destructor.cpp)**: Automated Cleanup & Resource Management (The Last Time).
+
 
 
 
