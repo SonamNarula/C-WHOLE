@@ -2,42 +2,52 @@
 #include <string>
 using namespace std;
 
-// 3. Constructors & Destructors: "Begin Again" & "Closure"
-// Constructor: Called when object is created (Setup).
-// Destructor: Called when object is destroyed (Cleanup).
+// Concept: Object Lifecycle (Initialization & Destruction)
+// "Begin Again" -> Constructor
+// "Closure" -> Destructor
 
-class Concert {
+class Thesis {
+private:
+    string topic;
+    int pageCount;
+
 public:
-    string city;
-
     // Default Constructor
-    Concert() {
-        city = "Unknown City";
-        cout << "Planning a concert..." << endl;
+    Thesis() {
+        topic = "Untitled Research";
+        pageCount = 0;
+        cout << "[System]: Initializing empty thesis buffer..." << endl;
     }
 
     // Parameterized Constructor
-    Concert(string c) {
-        city = c;
-        cout << "Welcome to the Eras Tour in " << city << "!" << endl;
+    Thesis(string t, int p) {
+        topic = t;
+        pageCount = p;
+        cout << "[System]: Thesis '" << topic << "' started with " << pageCount << " pages." << endl;
+    }
+
+    // Copy Constructor
+    Thesis(const Thesis &t) {
+        topic = t.topic + " (Review Copy)";
+        pageCount = t.pageCount;
+        cout << "[System]: Copying thesis for peer review..." << endl;
     }
 
     // Destructor
-    ~Concert() {
-        cout << "The show in " << city << " is over. Goodnight!" << endl;
+    ~Thesis() {
+        cout << "[System]: Deallocating resources for '" << topic << "'. Data saved." << endl;
     }
 };
 
 int main() {
-    cout << "--- Creating concert 1 ---" << endl;
-    Concert c1("London");
-
-    cout << "\n--- Creating concert 2 ---" << endl;
-    {
-        Concert c2("Paris"); 
-        // c2 will be destroyed here when scope ends
-    }
+    cout << "--- Academic Session Start ---" << endl;
     
-    cout << "\n--- Back to main ---" << endl;
+    Thesis masters("Machine Learning Optimization", 45);
+    
+    {
+        Thesis draft = masters; // Calls Copy Constructor
+    } // draft dies here (Destructor called)
+
+    cout << "--- Academic Session End ---" << endl;
     return 0;
 }

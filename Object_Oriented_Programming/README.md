@@ -41,6 +41,9 @@ class Knowledge {
     *Runtime adaptability (Mirrorball).*
 4.  **Abstraction**  
     *Complexity reduction.*
+5.  **Object Initialization**  
+    *Constructor/Destructor lifecycle management.*
+
 
 ---
 
