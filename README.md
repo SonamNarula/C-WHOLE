@@ -252,6 +252,63 @@ int* invisibleString = &me;
 
 ---
 
+<!-- ERA 5: LOVER (OBJECT ORIENTED PROGRAMMING) -->
+
+## 🩷 THE LOVER ERA (Object Oriented Programming)
+
+### *"I've loved you three summers now, honey, but I want 'em all (Class Members)."*
+
+**Theme**: 🌸 *Pastel Pink (Devotion & Structure)*
+**Focus**: Classes, Objects, Inheritance, Polymorphism.
+**Philosophy**: "Can I go where you go? Can we always be this close?" (Encapsulation).
+
+This era is about commitment. Binding data and functions together. Creating relationships between entities. **OOPS** is the love language of C++.
+
+> **Source Code:** [OOPS/](OOPS/) & [Object_Oriented_Programming/](Object_Oriented_Programming/)
+
+### 💘 The Tracklist (Liner Notes)
+
+<details>
+<summary><b>01. The Man (Classes & Objects)</b></summary>
+<br>
+Running as fast as I can. Creating blueprints for existence. 
+<br>
+<i>"I'd be a fearless leader (Class), I'd be an alpha type."</i>
+</details>
+
+<details>
+<summary><b>02. Cruel Summer (Inheritance)</b></summary>
+<br>
+It's blue, the feeling I've got (protecting base classes). Taking traits from parents but making them your own.
+</details>
+
+<details>
+<summary><b>03. False God (Polymorphism)</b></summary>
+<br>
+Depending on the context, I can be anything. Function overloading and overriding.
+<br>
+<i>"We'd still worship this love (Virtual Functions)."</i>
+</details>
+
+<details>
+<summary><b>04. Cornelia Street (The 'this' Pointer)</b></summary>
+<br>
+"I rent a place on Cornelia Street." Identifying the current object instance. never letting it go.
+</details>
+
+### 🔓 From The Vault (Snippet)
+
+```cpp
+class Lover {
+    private:
+        string myHeart;
+    public:
+        void claim() { this->myHeart = "Yours"; }
+};
+```
+
+---
+
 <!-- ERA 5: 1989 (WEB ENGINEERING) -->
 
 ## 🩵 THE 1989 ERA (Reinvention & Style)
