@@ -119,7 +119,52 @@ I am a dedicated **Scholar of Computers** and a disciplined **Aspirant of State*
 </tr>
 </table>
 
+
+---
+
+## 🕰️ **THE ERA TIMELINE (JOURNEY)**
+
+```mermaid
+%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#ffffff', 'edgeLabelBackground':'#1a1a1a', 'tertiaryColor': '#1a1a1a'}}}%%
+timeline
+    title THE ROAD TO GLORY
+    2023 : Started Coding Journey
+         : Explored C++ & Web Dev
+    2024 : 500+ LeetCode Problems
+         : 5-Star on HackerRank
+    2025 : The Tortured Coders Era
+         : 1350+ Problems Solved
+         : Top 1% on Codolio
+    2026 : B.Tech Final Year
+         : Advanced System Design
+    2027 : TARGET: SSC CGL
+         : PROJECT: PUBLIC SERVICE
+```
+
+---
+
+## 🎧 **THE PLAYLIST (CODING ANTHEMS)**
+
+<div align="center">
+  <a href="https://open.spotify.com/user/sonamnarula">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=sonamnarula&cover_image=true&theme=novatorem&bar_color=B0B0B0&bar_color_cover=false" alt="Spotify" />
+  </a>
+</div>
+
+---
+
+## ✒️ **THE LYRICS (FAVORITE QUOTES)**
+
+> *"I'm doing good, I'm on some new sh*t."*
+>
+> *"People throw rocks at things that shine."*
+>
+> *"We are too busy dancing to get knocked off our feet."*
+
+---
+
 <!-- LEETCODE BADGES SHOWCASE -->
+
 ### 🏅 **BADGE COLLECTION (HALL OF FAME)**
 > *Annual Badge Winner | 365 Days Consistency | Monthly Medals*
 
