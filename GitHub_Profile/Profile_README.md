@@ -127,8 +127,13 @@ I am a dedicated **Scholar of Computers** and a disciplined **Aspirant of State*
 
 <br>
 
-### **CONTRIBUTION DOSSIER**
+### **CONTRIBUTION DOSSIER (THE SERPENT)**
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SonamNarula&bg_color=1A1A1A&color=B0B0B0&line=B0B0B0&point=FFFFFF&area=true&hide_border=true" width="100%" />
+
+<!-- SNAKE ANIMATION -->
+<div align="center">
+  <img src="https://github-readme-snake.vercel.app/api?username=SonamNarula&theme=dark&bg_color=1A1A1A&color_snake=B0B0B0&color_dots=333333" width="100%" />
+</div>
 
 <br>
 
