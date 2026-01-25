@@ -1,237 +1,138 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1A1A1A&height=2&section=header" width="100%"/>
+<!-- ACADEMIC HEADER: DARK TEAL & GOLD -->
+![Header](https://capsule-render.vercel.app/api?type=rect&color=004d40&height=120&section=header&text=RESEARCH%20FELLOW:%20SONAM%20NARULA&fontSize=45&fontColor=FFD700&animation=fadeIn&fontAlignY=50&desc=B.Tech%20Scholar%20•%20Algorithmic%20Researcher%20•%20Public%20Policy%20Aspirant&descAlignY=80&descSize=16&descColor=e0f2f1)
 
-# THE TORTURED CODERS DEPARTMENT
-
-### *EST. 2005 • MEMBER ID: SONAM NARULA • CHAIRMAN*
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=1A1A1A&height=180&section=header&text=SONAM%20NARULA&fontSize=60&fontColor=EAEAEA&animation=fadeIn&fontAlignY=35&desc=B.Tech%20Undergrad%20%7C%20Competitive%20Programmer%20%7C%20SSC%20Aspirant&descAlignY=65&descSize=16&descColor=B0B0B0)
-
+<!-- TYPING SVG: TYPEWRITER STYLE -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&weight=500&size=18&pause=2000&color=9E9E9E&center=true&vCenter=true&width=600&lines=All's+fair+in+love+and+coding.;I+love+Logic,+it's+ruining+my+life.;Entering+my+Government+Service+Era.;Who's+afraid+of+little+old+DSA%3F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Lora&weight=600&size=20&pause=1000&color=009688&center=true&vCenter=true&width=800&lines=Subject:+The+Optimization+of+Governance+via+Code.;Hypothesis:+Consistency+Yields+Maximum+Output.;Methodology:+C%2B%2B,+react.js,+and+Discipline.;Status:+Conducting+Experiments+(LeetCode+Contests)." alt="Typing SVG" />
 </a>
 
-<br>
-
-<img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" width="50" height="50"/>
-
 </div>
 
 ---
 
-## ⚡ **TL;DR (EXECUTIVE SUMMARY)**
+## 📑 **ABSTRACT (THE MISSION)**
 
-- 🎓 **Identity:** B.Tech CSE Undergrad & Elite Competitive Programmer (Top 1% Global).
-- 🎯 **Target:** Building scalable systems while preparing for **SSC CGL 2027**.
-- 🛠️ **Stack:** Mastery in **C++ & DSA** | Proficient in **React.js & Node.js**.
-- 📈 **Stats:** **1350+ Problems Solved** across LeetCode, GFG, and Codolio.
+> **DOI:** `10.2027/SSC-CGL-GOAL`  
+> **Keywords:** *Algorithms, Distributed Systems, Civic Duty, Persistence.*
 
----
-
-## 🏛️ **THE MANUSCRIPT (ABOUT ME)**
-
-> *"You wouldn't last an hour in the asylum where they raised me."* (Referencing LeetCode)
-
-I am a dedicated **Scholar of Computers** and a disciplined **Aspirant of State**. My life is a study in duality: the abstract beauty of **Algorithms** and the concrete duty of **Public Service**.
-
-- 🔭 **The Ambition:** To secure a prestigious position in **SSC CGL 2027**.
-- 🕰️ **The Grind:** Solving complex problems while the world sleeps.
-- ✒️ **The Philosophy:** Code is poetry. Logic is law.
-- 🤍 **The Vibe:** Studious. Sincere. Melancholic. Persistent.
+**Abstract:** This profile documents the trajectory of `Subject: Sonam Narula`, an undergraduate researcher specializing in **Computational Logic (C++)** and **General Administrative Studies**. The objective is to bridge the gap between high-performance software engineering and efficient public administration. The subject demonstrates exceptional capability in solving complex algorithmic problems (`N > 1300`) while simultaneously mastering the curriculum for the **SSC CGL Examination (2027)**.
 
 ---
 
-## 🏗️ **THE PROJECTS (DEPARTMENT OF INNOVATION)**
+## 🧪 **INSTRUMENTATION (TECH STACK)**
 
-*"I can do it with a broken heart... and a broken build."*
+*Tools and frameworks utilized for experimental development.*
 
-| **PROJECT NAME** | **TECHNOLOGY** | **OUTCOME / IMPACT** |
+<div align="center">
+
+| **Core Logic (Variables)** | **Frontend Interface (UI)** | **Infrastructure (Env)** |
 | :--- | :--- | :--- |
-| **Data Viz Engine** | `React`, `D3.js` | Built a real-time algorithm visualizer, reducing concept learning time for peers by **40%**. |
-| **Secure Chat Sys** | `Node.js`, `Socket.io` | Engineered a low-latency messaging app handling **500+ concurrent connections** with end-to-end encryption. |
-| **Exam Tracker** | `MERN Stack` | Developed a study tracker for SSC aspirants, integrating **analytics dashboards** to optimize revision cycles. |
-
----
-
-## 📜 **THE ARTIFACTS (TECH STACK)**
-
-<div align="center">
-
-| **DEPARTMENT OF LOGIC (LANGUAGES)** | **DEPARTMENT OF ARCHITECTURE (FRAMEWORKS)** |
-| :--- | :--- |
-| ![C++](https://img.shields.io/badge/C++-1A1A1A?style=flat-square&logo=c%2B%2B&logoColor=white) `Primary` <br> ![DSA](https://img.shields.io/badge/Data_Structures-333333?style=flat-square) `Core` <br> ![Python](https://img.shields.io/badge/Python-1A1A1A?style=flat-square&logo=python&logoColor=white) `Script` | ![React](https://img.shields.io/badge/React-1A1A1A?style=flat-square&logo=react&logoColor=61DAFB) `UI` <br> ![Next](https://img.shields.io/badge/Next.js-1A1A1A?style=flat-square&logo=next.js&logoColor=white) `SSG` <br> ![Tailwind](https://img.shields.io/badge/Tailwind-1A1A1A?style=flat-square&logo=tailwindcss&logoColor=white) `CSS` |
-
-| **DEPARTMENT OF INFRASTRUCTURE (TOOLS)** | **DEPARTMENT OF DATA (BACKEND)** |
-| :--- | :--- |
-| ![Git](https://img.shields.io/badge/Git-1A1A1A?style=flat-square&logo=git&logoColor=white) `Version` <br> ![Linux](https://img.shields.io/badge/Linux-1A1A1A?style=flat-square&logo=linux&logoColor=white) `Kernel` <br> ![Docker](https://img.shields.io/badge/Docker-1A1A1A?style=flat-square&logo=docker&logoColor=white) `Container` | ![Node](https://img.shields.io/badge/Node.js-1A1A1A?style=flat-square&logo=node.js&logoColor=white) `Server` <br> ![Mongo](https://img.shields.io/badge/MongoDB-1A1A1A?style=flat-square&logo=mongodb&logoColor=white) `DB` <br> ![SQL](https://img.shields.io/badge/SQL-1A1A1A?style=flat-square&logo=mysql&logoColor=white) `Query` |
+| ![C++](https://img.shields.io/badge/C++17-004d40?style=flat-square&logo=c%2B%2B&logoColor=white) | ![React](https://img.shields.io/badge/React_18-00695c?style=flat-square&logo=react&logoColor=white) | ![Git](https://img.shields.io/badge/Version_Control-00796b?style=flat-square&logo=git&logoColor=white) |
+| ![DSA](https://img.shields.io/badge/Data_Structures-004d40?style=flat-square&logo=algorithm&logoColor=white) | ![Next](https://img.shields.io/badge/Next.js-00695c?style=flat-square&logo=next.js&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux_Kernel-00796b?style=flat-square&logo=linux&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python_3-004d40?style=flat-square&logo=python&logoColor=white) | ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-00695c?style=flat-square&logo=tailwindcss&logoColor=white) | ![Docker](https://img.shields.io/badge/Containerization-00796b?style=flat-square&logo=docker&logoColor=white) |
 
 </div>
 
 ---
 
-## 🏆 **THE HALL OF FAME (TROPHIES)**
+## � **EXPERIMENTAL DATA (STATISTICS)**
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SonamNarula&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" alt="SonamNarula Trophies" />
-  </a>
-</div>
-
----
-
-## ⚖️ **THE EVIDENCE (STATISTICS)**
-
-*"I check the stats once, then I check them twice."*
+*Quantitative analysis of problem-solving capabilities.*
 
 <div align="center">
 <br>
 
 <a href="https://codolio.com/profile/0PG2lf5S">
-  <img src="https://img.shields.io/badge/CODOLIO_RANK-TOP_1%25-black?style=for-the-badge&logo=code&logoColor=white&color=1A1A1A"/>
+  <img src="https://img.shields.io/badge/CODOLIO_INDEX-TOP_1%25_GLOBAL-FFD700?style=for-the-badge&logo=code&logoColor=black&color=004d40"/>
 </a>
 
 <br><br>
 
 <table>
 <tr>
-<td width="55%">
+<td width="60%">
 
-###  **CASE FILE: 0PG2lf5S**
-| **METRIC** | **COUNT** |
-| :--- | :--- |
-| **TOTAL SOLVED** | `1341` |
-| **DSA PROBLEMS** | `1233` |
-| **ACTIVE DAYS** | `444` |
-| **CURRENT STREAK** | `352` |
-
-<br>
-
-*"F***k it if I can't have him (stability), I can fix him (legacy code)."*
+### 📉 **Table 1.1: Performance Metrics**
+| **Parameter** | **Observed Value** | **Rating** |
+| :--- | :--- | :--- |
+| **Total Algorithms Solved** | `1341` | `Outstanding` |
+| **Data Structures Mastery** | `1233` | `Expert` |
+| **Active Research Days** | `444` | `Consistent` |
+| **Longest Streak** | `352 Days` | `High Endurance` |
 
 </td>
-<td width="45%">
+<td width="40%">
 
-### ⚔️ **LEETCODE ARENA**
-[![LeetCode Stats](https://leetcard.jacoblin.cool/sonamnarula2005?theme=dark&font=Courier%20Prime&ext=contest)](https://leetcode.com/u/sonamnarula2005/)
+### ⚔️ **Fig 1.2: LeetCode Graph**
+[![LeetCode Stats](https://leetcard.jacoblin.cool/sonamnarula2005?theme=dark&font=Lora&ext=contest)](https://leetcode.com/u/sonamnarula2005/)
 
 </td>
 </tr>
 </table>
 
+### **Fig 1.3: Contribution Heatmap**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SonamNarula&bg_color=0D1117&color=009688&line=4db6ac&point=FFFFFF&area=true&hide_border=true" width="100%" />
 
----
+<!-- SUMMARY CARDS -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SonamNarula&theme=solarized_dark" width="100%" />
 
-## 🕰️ **THE ERA TIMELINE (JOURNEY)**
-
-```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#ffffff', 'edgeLabelBackground':'#1a1a1a', 'tertiaryColor': '#1a1a1a'}}}%%
-timeline
-    title THE ROAD TO GLORY
-    2023 : Started Coding Journey
-         : Explored C++ & Web Dev
-    2024 : 500+ LeetCode Problems
-         : 5-Star on HackerRank
-    2025 : The Tortured Coders Era
-         : 1350+ Problems Solved
-         : Top 1% on Codolio
-    2026 : B.Tech Final Year
-         : Advanced System Design
-    2027 : TARGET: SSC CGL
-         : PROJECT: PUBLIC SERVICE
-```
-
----
-
-## 🎧 **THE PLAYLIST (CODING ANTHEMS)**
-
-<div align="center">
-  <a href="https://open.spotify.com/user/sonamnarula">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=sonamnarula&cover_image=true&theme=novatorem&bar_color=B0B0B0&bar_color_cover=false" alt="Spotify" />
-  </a>
 </div>
 
 ---
 
-## ✒️ **THE LYRICS (FAVORITE QUOTES)**
+## 📂 **CASE STUDIES (PROJECTS)**
 
-> *"I'm doing good, I'm on some new sh*t."*
->
-> *"People throw rocks at things that shine."*
->
-> *"We are too busy dancing to get knocked off our feet."*
+### **Study A: The Data Visualization Engine**
+> **Hypothesis:** Visual cues improve algorithmic retention.  
+> **Method:** Implemented `D3.js` & `React` to animate sorting algorithms.  
+> **Result:** Peer learning efficiency improved by **40%**.
+
+### **Study B: Secure Communication Protocol**
+> **Hypothesis:** Latency can be minimized in encrypted channels.  
+> **Method:** Utilized `Node.js` (Socket.io) with AES encryption.  
+> **Result:** Sustained **500+ concurrent connections** with `<50ms` latency.
 
 ---
 
-<!-- LEETCODE BADGES SHOWCASE -->
+## 🏅 **AWARDS & RECOGNITION (BADGES)**
 
-### 🏅 **BADGE COLLECTION (HALL OF FAME)**
-> *Annual Badge Winner | 365 Days Consistency | Monthly Medals*
+*Received honors for continuous excellence in the field.*
+
+> *Annual Badge 2024 | 365 Days Consistency Award | 12x Monthly Medals*
 
 [![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/?username=sonamnarula2005&theme=dark)](https://leetcode.com/u/sonamnarula2005/)
 
-<br>
-
-### **CONTRIBUTION DOSSIER (THE SERPENT)**
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SonamNarula&bg_color=1A1A1A&color=B0B0B0&line=B0B0B0&point=FFFFFF&area=true&hide_border=true" width="100%" />
-
-<!-- SNAKE ANIMATION -->
-<div align="center">
-  <img src="https://github-readme-snake.vercel.app/api?username=SonamNarula&theme=dark&bg_color=1A1A1A&color_snake=B0B0B0&color_dots=333333" width="100%" />
-</div>
-
-<br>
-
-<!-- GITHUB SUMMARY CARDS (THE ANALYTICS) -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SonamNarula&theme=tokyonight" width="100%" />
-
-</div>
-
 ---
 
-##  **THE ANTHOLOGY (RESEARCH OPS)**
+## ⏳ **RESEARCH TIMELINE**
 
-```cpp
-// THE BLACK DOG (PROJECT: SSC_CGL)
-class Aspirant : public Student {
-    private:
-        string target = "Government Officer";
-        int targetYear = 2027;
-        
-    public:
-        void daily_routine() {
-            study("General Awareness");
-            practice("Quantitative Aptitude");
-            grind("Data Structures");
-            // "I can do it with a broken heart."
-        }
-};
+```mermaid
+timeline
+    title ACADEMIC & PROFESSIONAL PROGRESSION
+    2023 : INITIATION
+         : B.Tech CSE Enrollment
+    2024 : DEVELOPMENT
+         : 500+ LeetCode Solved
+    2025 : MASTERY
+         : Top 1% Codolio (Current)
+    2027 : CONCLUSION
+         : SSC CGL Examination
 ```
 
 ---
 
-## 💬 **THE QUOTE**
-
-<div align="center">
-  <a href="https://github.com/SonamNarula">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-  </a>
-</div>
-
----
-
-## 🕊️ **CORRESPONDENCE**
+## 🤝 **CORRESPONDENCE & CITATIONS**
 
 <div align="center">
 
-<a href="https://x.com/SonamReports"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp;&nbsp;
-<a href="https://linkedin.com/in/sonamnarula"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
-<a href="https://leetcode.com/u/sonamnarula2005/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>&nbsp;&nbsp;
-<a href="https://github.com/SonamNarula"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://x.com/SonamReports"><img src="https://img.shields.io/badge/Citation-Twitter_%2F_X-black?style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp;
+<a href="https://linkedin.com/in/sonamnarula"><img src="https://img.shields.io/badge/Network-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="mailto:sonamnarula2108@gmail.com"><img src="https://img.shields.io/badge/Contact-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br><br>
 
-> *"Long live all the magic we made."*  
-> **THE CHAIRMAN**
+> *"The important thing is not to stop questioning."* — **Albert Einstein**
 
 </div>
