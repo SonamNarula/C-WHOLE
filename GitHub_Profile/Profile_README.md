@@ -138,8 +138,7 @@ I am a dedicated **Scholar of Computers** and a disciplined **Aspirant of State*
 <br>
 
 <!-- GITHUB SUMMARY CARDS (THE ANALYTICS) -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SonamNarula&theme=github_dark" width="100%" />
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SonamNarula&theme=tokyonight" width="100%" />
 
 </div>
 
