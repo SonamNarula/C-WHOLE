@@ -102,6 +102,10 @@ const double GRAVITY = 9.8;
 // You can try to change it, but you'll fail. It's absolute.
 ```
 
+### 🎛️ Bonus Track: Flowchart TD (Visual Map)
+
+Sometimes the best way to reason about a brand-new concept is to sketch it first. I dropped a Mermaid template in `BASICS/flowchart TD.mmd` (and its extension-less twin) that maps the steps I use inside the editor, AI chat, and raw text modes. Open it directly on GitHub or in any Mermaid live editor to render the chart before writing a single line of code.
+
 ---
 
 <!-- ERA 2: FEARLESS (LOGIC) -->
